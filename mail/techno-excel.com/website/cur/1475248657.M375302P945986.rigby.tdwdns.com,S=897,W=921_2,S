@@ -1,0 +1,24 @@
+Return-Path: <marktee@mail.com>
+Delivered-To: website@techno-excel.com
+Received: from rigby.tdwdns.com
+	by rigby.tdwdns.com (Dovecot) with LMTP id af4tFhGC7ldCbw4AF2jIDg
+	for <website@techno-excel.com>; Fri, 30 Sep 2016 17:17:37 +0200
+Return-path: <marktee@mail.com>
+Envelope-to: website@techno-excel.com
+Delivery-date: Fri, 30 Sep 2016 17:17:37 +0200
+Received: from [::1] (port=46697 helo=techno-excel.com)
+	by rigby.tdwdns.com with esmtpsa (TLSv1:ECDHE-RSA-AES256-SHA:256)
+	(Exim 4.87)
+	(envelope-from <marktee@mail.com>)
+	id 1bpzZ9-003y6l-Hw
+	for website@techno-excel.com; Fri, 30 Sep 2016 17:17:36 +0200
+Message-ID: <66dd4d0ddf3d995214f70df15ceecdff@techno-excel.com>
+Date: Fri, 30 Sep 2016 10:17:31 -0500
+Subject: testing
+From: Mark <marktee@mail.com>
+To: website@techno-excel.com
+MIME-Version: 1.0
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+Testing

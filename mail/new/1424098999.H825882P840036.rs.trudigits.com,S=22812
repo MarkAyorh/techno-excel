@@ -1,0 +1,213 @@
+Return-path: <MettlerToledoGLF@glf.mt.com>
+Envelope-to: mtoriola@techno-excel.com
+Delivery-date: Mon, 16 Feb 2015 16:03:19 +0100
+Received: from mail01.glf.mt.com ([204.92.114.219]:38448)
+	by rs.trudigits.com with esmtp (Exim 4.84)
+	(envelope-from <MettlerToledoGLF@glf.mt.com>)
+	id 1YNNCf-003WWT-Eg
+	for mtoriola@techno-excel.com; Mon, 16 Feb 2015 16:03:18 +0100
+Received: from [10.4.1.10] ([10.4.1.10:22760] helo=P01INJECT018)
+	by msm-mta01-tor6 (envelope-from <MettlerToledoGLF@glf.mt.com>)
+	(ecelerity 3.6.7.46655 r(Core:3.6.7.0)) with ESMTP
+	id 37/21-21893-3B602E45; Mon, 16 Feb 2015 10:03:15 -0500
+Message-ID: <1b7904ec03fb462cbfe5e54fc0108a23@1103>
+X-Binding: 1103
+X-elqPod: 0x04D4AA276AEFAC548AF4C2541180280C6E4E16410A533B620AAC2EC8FC2601D8
+MIME-Version: 1.0
+From: "Maria Mezema | METTLER TOLEDO" <glf_adhoc1401@glf.mt.com>
+To: mtoriola@techno-excel.com
+Reply-To: "METTLER TOLEDO" <glf@mt.com>
+Date: 16 Feb 2015 10:03:15 -0500
+Subject: NEW pH Guide: All you ever wanted to know about pH
+Content-Type: multipart/alternative;
+ boundary=--boundary_2257668_97491bed-d6b3-4045-8046-9b78f4e6a6b5
+
+
+----boundary_2257668_97491bed-d6b3-4045-8046-9b78f4e6a6b5
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: base64
+
+DQoNClZpZXcgb25saW5lIHZlcnNpb24gDQo8aHR0cDovL2FwcC5nbGYubXQuY29tL2Uv
+ZXM/cz0xMTAzJmU9NzM2OTQzJmVscT0xYjc5MDRlYzAzZmI0NjJjYmZlNWU1NGZjMDEw
+OGEyMz4gDQoNClVuc3Vic2NyaWJlIA0KPGh0dHA6Ly9hcHAuZ2xmLm10LmNvbS9lL3U/
+cz0xMTAzJmVscT0xYjc5MDRlYzAzZmI0NjJjYmZlNWU1NGZjMDEwOGEyMz4gICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgDQoNCg0KDQoNCiIiIDxodHRwOi8vYXBwLmdsZi5tdC5jb20vZS9lcj9lbHFfbWlk
+PTcyMTAmZWxxX2NpZD0yNTMzNzY1OSZzPTExMDMmbGlkPTYmZWxxPTFiNzkwNGVjMDNm
+YjQ2MmNiZmU1ZTU0ZmMwMTA4YTIzPiAgICANCg0KQ29tcGxpbWVudGFyeSBHdWlkZSB0
+byBwSCBNZWFzdXJlbWVudCA8aHR0cDovL2FwcC5nbGYubXQuY29tL2UvZXI/ZWxxX21p
+ZD03MjEwJmVscV9jaWQ9MjUzMzc2NTkmcz0xMTAzJmxpZD0xMDg1NSZlbHE9MWI3OTA0
+ZWMwM2ZiNDYyY2JmZTVlNTRmYzAxMDhhMjM+DQoNCipXaGF0IGV4YWN0bHkgaXMgcEg/
+DQoqV2h5IGlzIGl0IHNvIGltcG9ydGFudCB0byBtZWFzdXJlIGFuZCBjb250cm9sIGl0
+IGluIHRoZSBwcm9jZXNzIGluZHVzdHJpZXM/DQoqSG93IGRvIHBIIHNlbnNvcnMgd29y
+az8NCg0KTUVUVExFUiBUT0xFRE8ncyBHdWlkZSB0byBwSCBNZWFzdXJlbWVudCBhbnN3
+ZXJzIHRoZXNlIHF1ZXN0aW9ucywgcGx1cyBhIGxvdCBtb3JlLg0KDQoiRG93bmxvYWQg
+cEggR3VpZGUiIDxodHRwOi8vYXBwLmdsZi5tdC5jb20vZS9lcj9lbHFfbWlkPTcyMTAm
+ZWxxX2NpZD0yNTMzNzY1OSZzPTExMDMmbGlkPTEwODU1JmVscT0xYjc5MDRlYzAzZmI0
+NjJjYmZlNWU1NGZjMDEwOGEyMz4gICAgDQoNCkdldCB5b3VyIGNvcHkgb2YgdGhlIHBI
+IEd1aWRlIHRvZGF5IDxodHRwOi8vYXBwLmdsZi5tdC5jb20vZS9lcj9lbHFfbWlkPTcy
+MTAmZWxxX2NpZD0yNTMzNzY1OSZzPTExMDMmbGlkPTEwODU1JmVscT0xYjc5MDRlYzAz
+ZmI0NjJjYmZlNWU1NGZjMDEwOGEyMz4NCg0KRXZlcnkgYXBwbGljYXRpb24gaGFzIGEg
+c3BlY2lmaWMgZGVtYW5kIHRoYXQgaXMgd2h5IE1FVFRMRVIgVE9MRURPIGhhcyBhIHBI
+IHNlbnNvciBmb3IgZXZlcnkgbmVlZDoNCg0KRGlzY292ZXIgb3VyIGluLWxpbmUgcEgg
+c2Vuc29ycyBhbmQgdHJhbnNtaXR0ZXJzIDxodHRwOi8vYXBwLmdsZi5tdC5jb20vZS9l
+cj9lbHFfbWlkPTcyMTAmZWxxX2NpZD0yNTMzNzY1OSZzPTExMDMmbGlkPTcwMTAmZWxx
+PTFiNzkwNGVjMDNmYjQ2MmNiZmU1ZTU0ZmMwMTA4YTIzPg0KDQoNCkNvbnRhY3QgdXMg
+DQo8aHR0cDovL2FwcC5nbGYubXQuY29tL2UvZXI/ZWxxX21pZD03MjEwJmVscV9jaWQ9
+MjUzMzc2NTkmcz0xMTAzJmxpZD03MTI1JmVscT0xYjc5MDRlYzAzZmI0NjJjYmZlNWU1
+NGZjMDEwOGEyMz4gDQoNClVuc3Vic2NyaWJlIA0KPGh0dHA6Ly9hcHAuZ2xmLm10LmNv
+bS9lL3U/cz0xMTAzJmVscT0xYjc5MDRlYzAzZmI0NjJjYmZlNWU1NGZjMDEwOGEyMz4g
+DQoNCnd3dy5tdC5jb20gDQo8aHR0cDovL2FwcC5nbGYubXQuY29tL2UvZXI/ZWxxX21p
+ZD03MjEwJmVscV9jaWQ9MjUzMzc2NTkmcz0xMTAzJmxpZD02JmVscT0xYjc5MDRlYzAz
+ZmI0NjJjYmZlNWU1NGZjMDEwOGEyMz4gDQoNClByaXZhY3kgU3RhdGVtZW50IA0KPGh0
+dHA6Ly9hcHAuZ2xmLm10LmNvbS9lL2VyP2VscV9taWQ9NzIxMCZlbHFfY2lkPTI1MzM3
+NjU5JnM9MTEwMyZsaWQ9Nzg1MyZlbHE9MWI3OTA0ZWMwM2ZiNDYyY2JmZTVlNTRmYzAx
+MDhhMjM+DQoNCmdsZkBtdC5jb20gPG1haWx0bzpnbGZAbXQuY29tPiANCg0KTWV0dGxl
+ci1Ub2xlZG8gQUcgfCBJbSBIYWNrYWNrZXIgMTUsIDg5MDIgVXJkb3JmLCBTd2l0emVy
+bGFuZCAgICAgICAgICAgICAgIA0KwqkgMjAxMyB8IE1ldHRsZXItVG9sZWRvIEFHLCBh
+bGwgcmlnaHRzIHJlc2VydmVkDQoNCg==
+----boundary_2257668_97491bed-d6b3-4045-8046-9b78f4e6a6b5
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+<!DOCTYPE html>
+<html>
+<head>
+<!-- StartSystemHeader --><style>body{   } a img{border: none;}.ReadMsgBody { width: 100%;}.ExternalClass {width: 100%;}</style><!-- EndSystemheader --><style type="text/css">
+a:link {text-decoration: none; color:#00279f;}
+a:visited {text-decoration: none; color:#00279f;}
+a:hover {text-decoration: none; color:#00279f;}
+a:active {text-decoration: none; color:#00279f;}
+</style></head>
+<body style="">
+<table bgcolor="#044594" border="0" cellpadding="0" cellspacing="0" width="100%">
+	<tbody>
+    <tr>
+		<td>
+        
+			 <table align="center" border="0" cellpadding="0" cellspacing="0" width="600px">
+			    <tbody><tr>
+			      <td style="color:#ffffff; font-weight:bold; font-size:12px; font-family:'Helvetica Neue',Helvetica,Arial,sans-serif; padding-left:5px" bgcolor="#044594" height="28px" width="220px">
+			
+        <a style="color:#FFF; text-decoration:none" href="http://app.glf.mt.com/e/es?s=1103&e=736943&elq=1b7904ec03fb462cbfe5e54fc0108a23">
+			          View online version</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+			        <a style="color:#FFF; text-decoration:none" href="http://app.glf.mt.com/e/u?s=1103&elq=1b7904ec03fb462cbfe5e54fc0108a23" target="_blank">Unsubscribe</a>
+			        </td>
+                    <td width="200px">
+<img src="http://images.glf.mt.com/EloquaImages/clients/MettlerToledoEMEA/{2f7d4091-b14f-48b7-8208-86ff2c14c966}_spacer-blue-200x28.jpg" height="28px" width="200px">
+                    </td>
+			      
+			      <td width="145px">
+			        
+			        <table style="padding-right:5px;" border="0" cellpadding="0" cellspacing="0">
+			          <tbody>
+			            <tr>
+
+                          <td height="18px" width="70px">
+
+                          <img src="http://images.glf.mt.com/EloquaImages/clients/MettlerToledoEMEA/{b8eac28b-0482-4711-a52f-6e841ae31964}_spacer-blue-70x18.jpg" style="width: 70px; height: 18px;" height="18px" width="70px"></td>
+			              <td bgcolor="#044594" height="18px" width="8px">&nbsp;</td>
+                         
+                          <td height="18px" width="70px">
+
+                          <img src="http://images.glf.mt.com/EloquaImages/clients/MettlerToledoEMEA/{b8eac28b-0482-4711-a52f-6e841ae31964}_spacer-blue-70x18.jpg" style="width: 70px; height: 18px;" height="18px" width="70px"></td>
+			              
+		                </tr>
+		              </tbody></table>
+			        </td>
+			      
+			      </tr>			
+		        </tbody></table>
+      
+		</td>
+	</tr>
+ </tbody></table>
+ <table width="100%" border="0" cellspacing="0" cellpadding="0"><tr>
+<td align="center" height="0"></td></tr><tr><td><table cellspacing="0" cellpadding="0" border="0" bordercollapse="collapse" align="center" width="600" id="sc3047" style="table-layout: auto"><tr><td align="left" valign="top" width="290" height="30" id="empty0"></td><td align="left" valign="top" width="3" height="30" id="empty1"></td><td align="left" valign="top" width="5" height="30" id="empty2"></td><td align="left" valign="top" width="45" height="30" id="empty3"></td>
+<td align="left" valign="top" width="56" height="30" id="empty4"></td><td align="left" valign="top" width="16" height="30" id="empty5"></td><td valign="top" align="left" rowspan="4" colspan="2" width="184" height="94" id="view6" style="">
+<div id="sc14288" class="sc-view" style="left: 415px; width: 184px; top: -1px; height: 94px; overflow: hidden"><div class="co-border-style" style="border-width: 2px; border-style: none">
+<table width="184" height="94" cellspacing="0" cellpadding="0" border="0" bordercollapse="collapse" class="co-style-table" style="margin-top: 0px; margin-left: 0px; margin-right: 0px; margin-bottom: 0px"><tr><td valign="top" class="valign-able"><a href="http://app.glf.mt.com/e/er?elq_mid=7210&elq_cid=25337659&s=1103&lid=6&elq=1b7904ec03fb462cbfe5e54fc0108a23" title="">
+<img elqhref="http://app.glf.mt.com/e/er?s=1103&lid=6&elq=1b7904ec03fb462cbfe5e54fc0108a23" elqtitle="" width="184" height="94" src="http://images.glf.mt.com/eloquaimages/clients/MettlerToledoEMEA/{67d1b321-807e-43c3-93fc-e324cd673298}_logo.gif" title="" alt="" id="sc14290" class="sc-view sc-image-view editor-outline sc-regular-size" style="display: block; cursor: pointer"></a></td></tr></table></div></div></td><td align="left" valign="top" width="1" height="30" id="empty8"></td></tr><tr>
+
+<td valign="top" align="left" rowspan="1" colspan="4" width="343" height="44" id="view9" style="color: #000000; font-family: Arial; font-size: 12px; line-height: 18px; letter-spacing: 0px"><div id="sc14297" class="sc-view hidden-border inline-styled-view editor-outline" style="left: 0px; width: 343px; top: 30px; height: 44px; color: #000000; font-family: Arial; font-size: 12px; line-height: 18px; letter-spacing: 0px; overflow: hidden"><div class="co-border-style" style="">
+<table width="333" height="29" cellspacing="0" cellpadding="0" border="0" bordercollapse="collapse" class="co-style-table" style="color: #000000; font-family: Arial; font-size: 12px; line-height: 18px; letter-spacing: 0px; margin-top: 15px; margin-left: 10px; margin-right: 0px; margin-bottom: 0px"><tr><td valign="top" class="valign-able"><span class="remove-absolute">
+<a href="http://app.glf.mt.com/e/er?elq_mid=7210&elq_cid=25337659&s=1103&lid=10855&elq=1b7904ec03fb462cbfe5e54fc0108a23">
+<font style="font-family:Arial;font-size:16px;"><b>Complimentary Guide to pH Measurement</b></font></a><br></span></td></tr></table></div></div></td><td align="left" valign="top" width="56" height="44" id="empty13"></td><td align="left" valign="top" width="16" height="44" id="empty14"></td><td align="left" valign="top" width="1" height="44" id="empty17"></td></tr><tr><td align="left" valign="top" width="290" height="5" id="empty18"></td><td align="left" valign="top" width="3" height="5" id="empty19"></td>
+<td align="left" valign="top" width="5" height="5" id="empty20"></td><td align="left" valign="top" width="45" height="5" id="empty21"></td><td align="left" valign="top" width="56" height="5" id="empty22"></td><td align="left" valign="top" width="16" height="5" id="empty23">
+</td><td align="left" valign="top" width="1" height="5" id="empty26"></td></tr><tr>
+<td valign="top" align="left" rowspan="3" colspan="1" width="290" height="119" id="view27" style="color: #000000; font-family: Arial; font-size: 12px; line-height: 18px; letter-spacing: 0px; text-align: left"><div id="sc14301" class="sc-view hidden-border inline-styled-view editor-outline" style="left: 0px; width: 290px; top: 79px; height: 119px; color: #000000; font-family: Arial; font-size: 12px; line-height: 18px; letter-spacing: 0px; text-align: left; overflow: hidden">
+<div class="co-border-style" style="">
+<table width="280" height="119" cellspacing="0" cellpadding="0" border="0" bordercollapse="collapse" class="co-style-table" style="color: #000000; font-family: Arial; font-size: 12px; line-height: 18px; letter-spacing: 0px; text-align: left; margin-top: 0px; margin-left: 10px; margin-right: 0px; margin-bottom: 0px"><tr><td valign="top" class="valign-able"><span class="remove-absolute"><ul><li><font style="font-family:Arial;font-size:12px;">What exactly is pH?</font>
+</li><li><font style="font-family:Arial;font-size:12px;">Why is it so important to measure and control it in the process industries?</font></li><li><font style="font-family:Arial;font-size:12px;">How do pH sensors work?</font></li></ul><font style="font-family:Arial;font-size:12px;">METTLER TOLEDO's Guide to pH Measurement answers these questions, plus a lot more.</font><br></span></td></tr></table></div></div></td>
+<td align="left" valign="top" width="3" height="14" id="empty28"></td>
+<td align="left" valign="top" width="5" height="14" id="empty29"></td><td align="left" valign="top" width="45" height="14" id="empty30"></td><td align="left" valign="top" width="56" height="14" id="empty31"></td><td align="left" valign="top" width="16" height="14" id="empty32"></td><td align="left" valign="top" width="1" height="14" id="empty35"></td></tr><tr><td align="left" valign="top" width="3" height="1" id="empty37"></td><td align="left" valign="top" width="5" height="1" id="empty38"></td>
+<td align="left" valign="top" width="45" height="1" id="empty39"></td><td align="left" valign="top" width="56" height="1" id="empty40"></td><td align="left" valign="top" width="16" height="1" id="empty41"></td><td align="left" valign="top" width="182" height="1" id="empty42"></td>
+<td align="left" valign="top" width="2" height="1" id="empty43"></td><td align="left" valign="top" width="1" height="1" id="empty44"></td></tr><tr><td align="left" valign="top" width="3" height="104" id="empty46"></td>
+<td align="left" valign="top" width="5" height="104" id="empty47"></td><td valign="top" align="left" rowspan="6" colspan="4" width="299" height="237" id="view48" style=""><div id="sc14303" class="sc-view" style="left: 298px; width: 299px; top: 94px; height: 237px; overflow: hidden"><div class="co-border-style" style="border-width: 2px; border-style: none">
+<table width="299" height="237" cellspacing="0" cellpadding="0" border="0" bordercollapse="collapse" class="co-style-table" style="margin-top: 0px; margin-left: 0px; margin-right: 0px; margin-bottom: 0px"><tr><td valign="top" class="valign-able">
+<a href="http://app.glf.mt.com/e/er?elq_mid=7210&elq_cid=25337659&s=1103&lid=10855&elq=1b7904ec03fb462cbfe5e54fc0108a23" title="">
+<img elqhref="http://app.glf.mt.com/e/er?s=1103&lid=10855&elq=1b7904ec03fb462cbfe5e54fc0108a23" elqtitle="" width="299" height="237" src="http://images.glf.mt.com/EloquaImages/clients/MettlerToledoEMEA/{095fee04-5b7c-4830-bf17-0eaec250b9b8}_Picture1.jpg" title="Download pH Guide" alt="Download pH Guide" id="sc14305" class="sc-view sc-image-view editor-outline sc-regular-size" style="display: block; cursor: pointer"></a></td></tr></table></div></div></td>
+<td align="left" valign="top" width="2" height="104" id="empty52"></td><td align="left" valign="top" width="1" height="104" id="empty53"></td></tr><tr><td align="left" valign="top" width="290" height="22" id="empty54"></td><td align="left" valign="top" width="3" height="22" id="empty55"></td><td align="left" valign="top" width="5" height="22" id="empty56"></td>
+<td align="left" valign="top" width="2" height="22" id="empty61"></td><td align="left" valign="top" width="1" height="22" id="empty62"></td></tr>
+<tr><td valign="top" align="left" rowspan="1" colspan="2" width="293" height="40" id="view63" style="color: #000000; font-family: Arial; font-size: 12px; line-height: 18px; letter-spacing: 0px"><div id="sc14299" class="sc-view hidden-border inline-styled-view editor-outline" style="left: 0px; width: 293px; top: 220px; height: 40px; color: #000000; font-family: Arial; font-size: 12px; line-height: 18px; letter-spacing: 0px; overflow: hidden"><div class="co-border-style" style="">
+
+<table width="283" height="40" cellspacing="0" cellpadding="0" border="0" bordercollapse="collapse" class="co-style-table" style="color: #000000; font-family: Arial; font-size: 12px; line-height: 18px; letter-spacing: 0px; margin-top: 0px; margin-left: 10px; margin-right: 0px; margin-bottom: 0px"><tr><td valign="top" class="valign-able"><span class="remove-absolute"><font style="font-family:Arial;font-size:14px;">
+<a href="http://app.glf.mt.com/e/er?elq_mid=7210&elq_cid=25337659&s=1103&lid=10855&elq=1b7904ec03fb462cbfe5e54fc0108a23"><b><span style="color:rgb(104, 175, 33);"><img style="width:12px;height:11px;" src="http://images.glf.mt.com/eloquaimages/clients/MettlerToledoEMEA/{f9677736-268a-40c1-9103-8bfc6bc22102}_green_arrow.gif"> Get your copy of the pH Guide today</span></b></a></font><br></span></td></tr></table></div></div></td><td align="left" valign="top" width="5" height="40" id="empty65">
+</td>
+<td align="left" valign="top" width="2" height="40" id="empty70"></td><td align="left" valign="top" width="1" height="40" id="empty71"></td></tr><tr><td align="left" valign="top" width="290" height="9" id="empty72"></td><td align="left" valign="top" width="3" height="9" id="empty73"></td><td align="left" valign="top" width="5" height="9" id="empty74"></td><td align="left" valign="top" width="2" height="9" id="empty79"></td><td align="left" valign="top" width="1" height="9" id="empty80"></td></tr><tr>
+<td valign="top" align="left" rowspan="1" colspan="3" width="299" height="42" id="view81" style="color: #000000; font-family: Arial; font-size: 12px; line-height: 18px; letter-spacing: 0px; text-align: left">
+<div id="sc14312" class="sc-view hidden-border inline-styled-view editor-outline" style="left: -1px; width: 299px; top: 269px; height: 42px; color: #000000; font-family: Arial; font-size: 12px; line-height: 18px; letter-spacing: 0px; text-align: left; overflow: hidden">
+<div class="co-border-style" style=""><table width="289" height="42" cellspacing="0" cellpadding="0" border="0" bordercollapse="collapse" class="co-style-table" style="color: #000000; font-family: Arial; font-size: 12px; line-height: 18px; letter-spacing: 0px; text-align: left; margin-top: 0px; margin-left: 10px; margin-right: 0px; margin-bottom: 0px"><tr><td valign="top" class="valign-able"><span class="remove-absolute"><font style="font-family:Arial;font-size:12px;">Every
+ application has a specific demand that is why METTLER TOLEDO has a pH sensor for every need:</font><br></span></td></tr></table></div></div></td>
+<td align="left" valign="top" width="2" height="42" id="empty88"></td><td align="left" valign="top" width="1" height="42" id="empty89"></td></tr><tr><td align="left" valign="top" width="290" height="20" id="empty90"></td><td align="left" valign="top" width="3" height="20" id="empty91"></td><td align="left" valign="top" width="5" height="20" id="empty92"></td>
+<td align="left" valign="top" width="2" height="20" id="empty97"></td><td align="left" valign="top" width="1" height="20" id="empty98"></td></tr><tr><td valign="top" align="left" rowspan="1" colspan="5" width="399" height="27" id="view99" style="color: #000000; font-family: Arial; font-size: 12px; line-height: 18px; letter-spacing: 0px">
+
+<div id="sc14314" class="sc-view hidden-border inline-styled-view editor-outline" style="left: 0px; width: 399px; top: 331px; height: 27px; color: #000000; font-family: Arial; font-size: 12px; line-height: 18px; letter-spacing: 0px; overflow: hidden"><div class="co-border-style" style="">
+<table width="389" height="27" cellspacing="0" cellpadding="0" border="0" bordercollapse="collapse" class="co-style-table" style="color: #000000; font-family: Arial; font-size: 12px; line-height: 18px; letter-spacing: 0px; margin-top: 0px; margin-left: 10px; margin-right: 0px; margin-bottom: 0px"><tr><td valign="top" class="valign-able"><span class="remove-absolute"><font style="font-family:Arial;font-size:14px;">
+<a href="http://app.glf.mt.com/e/er?elq_mid=7210&elq_cid=25337659&s=1103&lid=7010&elq=1b7904ec03fb462cbfe5e54fc0108a23"><b><span style="color:rgb(104, 175, 33);">
+<img style="width:12px;height:11px;" src="http://images.glf.mt.com/eloquaimages/clients/MettlerToledoEMEA/{f9677736-268a-40c1-9103-8bfc6bc22102}_green_arrow.gif"> Discover our in-line pH sensors and transmitters</span></b></a></font><br></span></td></tr></table></div></div></td><td align="left" valign="top" width="16" height="27" id="empty104">
+</td><td align="left" valign="top" width="182" height="27" id="empty105"></td><td align="left" valign="top" width="2" height="27" id="empty106"></td><td align="left" valign="top" width="1" height="27" id="empty107"></td></tr><tr><td align="left" valign="top" width="290" height="22" id="empty108"></td><td align="left" valign="top" width="3" height="22" id="empty109"></td><td align="left" valign="top" width="5" height="22" id="empty110"></td>
+<td align="left" valign="top" width="45" height="22" id="empty111"></td>
+<td align="left" valign="top" width="56" height="22" id="empty112"></td><td align="left" valign="top" width="16" height="22" id="empty113"></td><td align="left" valign="top" width="182" height="22" id="empty114"></td><td align="left" valign="top" width="2" height="22" id="empty115"></td><td align="left" valign="top" width="1" height="22" id="empty116"></td></tr></table></td></tr><tr><td align="center" height="0"></td></tr></table>
+ 
+<table bgcolor="#f2f2f2" border="0" cellpadding="0" cellspacing="0" width="100%">
+	<tbody>
+		<tr>
+			<td align="center"><img border="0" height="10" src="http://images.glf.mt.com/eloquaimages/clients/MettlerToledoEMEA/{59c8bd13-4966-4c8f-92e8-884a4f06478a}_spacer.gif" width="600">
+			<table align="center" border="0" cellpadding="0" cellspacing="0" class="table" width="600">
+				<tbody>
+					<tr>
+						<td bgcolor="#f2f2f2" class="cell" nowrap="nowrap" width="600">
+						
+<table border="0" cellpadding="0" cellspacing="0" class="table" width="600">
+							<tbody>
+								<tr>
+									<td class="footershow" valign="top" width="484">
+									<p style="color:#044594;font-size:12px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;text-decoration:none;text-align:left;"><strong><a href="http://app.glf.mt.com/e/er?elq_mid=7210&elq_cid=25337659&s=1103&lid=7125&elq=1b7904ec03fb462cbfe5e54fc0108a23" style="color:#044594;text-decoration:none;" target="_blank">Contact
+ us</a> | <a href="http://app.glf.mt.com/e/u?s=1103&elq=1b7904ec03fb462cbfe5e54fc0108a23" style="color:#044594;text-decoration:none;" target="_blank">Unsubscribe</a> | <a href="http://app.glf.mt.com/e/er?elq_mid=7210&elq_cid=25337659&s=1103&lid=6&elq=1b7904ec03fb462cbfe5e54fc0108a23" style="color:#044594;text-decoration:none;" target="_blank">www.mt.com</a>
+ | <a href="http://app.glf.mt.com/e/er?elq_mid=7210&elq_cid=25337659&s=1103&lid=7853&elq=1b7904ec03fb462cbfe5e54fc0108a23" style="color:#044594;text-decoration:none;" target="_blank">Privacy Statement</a></strong></p>
+
+									<p style="color:#545454;font-size:10px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;text-decoration:none;text-align:left;"><a href="mailto:glf@mt.com" style="color:#044594;text-decoration:none;" target="_blank">glf@mt.com</a>
+ | Mettler-Toledo AG | Im Hackacker 15, 8902 Urdorf, Switzerland<br>
+									&copy; 2015 | Mettler-Toledo AG, all rights reserved</p>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+						<img border="0" height="30" src="http://images.glf.mt.com/eloquaimages/clients/MettlerToledoEMEA/{59c8bd13-4966-4c8f-92e8-884a4f06478a}_spacer.gif" width="1"></td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+
+
+
+<img src='http://app.glf.mt.com/e/FooterImages/FooterImage1?elq=1b7904ec03fb462cbfe5e54fc0108a23&siteid=1103' border=0 width=1px height=1px></body></html>
+----boundary_2257668_97491bed-d6b3-4045-8046-9b78f4e6a6b5--
+
+

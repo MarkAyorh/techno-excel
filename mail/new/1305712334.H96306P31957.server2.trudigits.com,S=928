@@ -1,0 +1,28 @@
+Return-path: <>
+Envelope-to: technoex@server2.trudigits.com
+Delivery-date: Wed, 18 May 2011 10:52:14 +0100
+Received: from mailnull by server2.trudigits.com with local (Exim 4.69)
+	id 1QMdQL-0008JO-UQ
+	for technoex@server2.trudigits.com; Wed, 18 May 2011 10:52:13 +0100
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@server2.trudigits.com>
+To: technoex@server2.trudigits.com
+Subject: Mail failure - malformed recipient address
+Message-Id: <E1QMdQL-0008JO-UQ@server2.trudigits.com>
+Date: Wed, 18 May 2011 10:52:13 +0100
+
+A message that you sent contained a recipient address that was incorrectly
+constructed:
+
+  Name:Ayo  missing or malformed local part (expected word or "<")
+
+The message has not been delivered to any recipients.
+
+------ This is a copy of your message, including all the headers. ------
+
+
+To: toriola2000@yahoo.com
+Subject: Still Testing
+From:ayotoriola@gmail.com
+
+This is still testing

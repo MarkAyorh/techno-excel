@@ -1,0 +1,980 @@
+AWSTATS DATA FILE 7.0 (build 1.971)
+# If you remove this file, all statistics for date 201112 will be lost/reset.
+# Last config file used to build this data file was /home/technoex/tmp/awstats/awstats.techno-excel.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 27
+POS_GENERAL 2010                
+POS_TIME 2683                
+POS_VISITOR 18913               
+POS_DAY 24289               
+POS_DOMAIN 3521                
+POS_LOGIN 4231                
+POS_ROBOT 4386                
+POS_WORMS 4775                
+POS_EMAILSENDER 4906                
+POS_EMAILRECEIVER 5049                
+POS_SESSION 25100               
+POS_SIDER 25291               
+POS_FILETYPES 5184                
+POS_DOWNLOADS 5309                
+POS_OS 5357                
+POS_BROWSER 5578                
+POS_SCREENSIZE 6298                
+POS_UNKNOWNREFERER 6372                
+POS_UNKNOWNREFERERBROWSER 6820                
+POS_ORIGIN 6902                
+POS_SEREFERRALS 7044                
+POS_PAGEREFS 7256                
+POS_SEARCHWORDS 8597                
+POS_KEYWORDS 9711                
+POS_MISC 2346                
+POS_ERRORS 10395               
+POS_CLUSTER 4087                
+POS_SIDER_404 10496               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20120101031734 9 1458 29146782454
+FirstTime 20111201003518
+LastTime 20111231224031
+LastUpdate 20120101131131 9 0 8 0 0
+TotalVisits 154                 
+TotalUnique 106                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 147                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 36 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 23 29 998731 16 32 1407884
+1 23 89 12851525 17 31 1397880
+2 18 104 16166658 54 72 825110
+3 1 11 226901 12 17 6037
+4 14 21 2090329 73 81 20953
+5 6 22 4381641 61 72 205100
+6 11 11 87688 7 20 399062
+7 13 23 1569837 15 25 497411
+8 13 63 10987948 28 32 18145
+9 5 67 14371130 16 32 205624
+10 7 10 452272 11 18 610233
+11 10 31 4402872 11 30 3243500
+12 30 57 5906580 17 37 676348
+13 10 172 27540247 141 165 62195
+14 26 112 15606357 83 104 2867896
+15 24 40 5352371 65 76 517478
+16 17 82 11401547 28 38 18827
+17 9 54 7473940 111 131 395822
+18 15 24 2117887 74 86 956007
+19 9 81 4886389 35 58 664508
+20 15 22 979378 87 95 316551
+21 13 34 4822725 20 33 288565
+22 13 14 449814 53 66 456285
+23 18 96 14052588 26 39 1142859
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 32
+ua 165 166 1279653
+us 85 220 26475847
+ng 26 236 29778637
+ir 10 48 8162138
+cn 8 117 18461250
+ru 7 23 465952
+no 6 178 29320900
+vn 4 36 6409923
+in 3 28 6932306
+id 3 17 3100429
+bd 2 13 2858723
+pk 2 14 2579136
+pl 2 6 541525
+de 2 2 19120
+gt 2 9 2001144
+ae 2 16 3888864
+iq 2 9 2001500
+tr 1 8 1994732
+eg 1 8 1994732
+ph 1 52 9380687
+kr 1 8 1435385
+my 1 10 3192334
+tn 1 5 541525
+co 1 5 541525
+hk 1 5 541525
+ba 0 2 575724
+sa 0 2 1270176
+th 1 2 302547
+br 1 6 584404
+kw 1 10 1001513
+ca 0 2 705134
+za 1 6 838365
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 7
+bot[\s_+:,\.\;\/\\-] 79 298161 20111231212355 0
+googlebot 76 3686183 20111231062059 0
+spider 68 532588 20111231041923 0
+msnbot\-media 31 3353159 20111228223705 0
+crawl 3 25888 20111217023914 0
+robot 2 17542 20111230093728 0
+netcraft 1 9560 20111230102719 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 3
+css 68 492383 0 0
+html 343 2537252 0 0
+gif 858 166147720 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS 18
+blackberry 4
+winlong 226
+winxp 470
+win2000 16
+linuxfedora 7
+winunknown 3
+win95 7
+win2003 27
+wince 2
+j2me 122
+winnt 18
+win98 7
+linux 13
+win7 244
+macosx 29
+win16 1
+winme 8
+Unknown 65
+END_OS
+
+# Browser ID - Hits
+BEGIN_BROWSER 48
+msie6.0 94
+firefox3.6.24 5
+firefox5.0 1
+up\. 1
+firefox8.0 86
+msie4.01 2
+opera9.00 6
+firefox9.0 10
+minefield 2
+firefox3.5.3 9
+msie3.02 2
+opera9.80 186
+firefox3.6.15 1
+msie8.0 215
+netscape4.76 1
+chrome5.0.375.127 1
+chrome15.0.874.121 120
+opera7.60 1
+firefox6.0.2 23
+netscape0.91 1
+msie7.0 160
+msie2.0 4
+msie5.0 3
+msie9.0 65
+chrome16.0.912.63 21
+opera7.54 2
+opera9.0 2
+chrome8.0.552.224 1
+safari5.1.1 22
+blackberry 4
+opera7.11 1
+chrome12.0.742 11
+samsung 2
+chrome5.0.396.0 58
+firefox3.6.2 4
+opera9.01 1
+opera8.01 3
+firefox7.0.1 12
+msie5.5 17
+chrome13.0.782.215 4
+firefox3.5.10 6
+nokia 1
+netscape0.6 2
+mozilla 29
+netscape5.0 3
+firefox8.0.1 13
+firefox3.1 7
+firefox3.6.13 44
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 5
+Opera/9.80_(Series_60;_Opera_Mini/6.1.25570/26.1235;_U;_en)_Presto/2.8.119_Version/10.54 20111206231258
+Nokia6600/1.0 20111231115628
+SAMSUNG-SGH-T919/T919UVHL3_SHP/VPP/R5_NetFront/3.5_SMM-MMS/1.2.0_profile/MIDP-2.1_configuration/CLDC-1.1 20111207094554
+HD-TX20B001.1a/_UP.Browser/4.1.22b_UP.Link/4.3.3.4a 20111230055211
+Mozilla/4.0_(compatible;) 20111221141416
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 0
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 57 71
+From1 1 1
+From2 61 118
+From3 173 174
+From4 51 905
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 6
+google 31 59
+baidu 5 5
+search 1 1
+bing 7 12
+yandex 7 16
+yahoo 10 25
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 43
+http://xn--80aaaa5act6cqw5b9b.xn--p1ai 9 9
+http://loadka.ru 9 9
+http://www.orangeask.com 7 7
+http://modadoma.tomsk.ru 6 6
+http://x-musics.com 6 6
+http://slovo.ws 6 6
+http://followlove.ru 6 6
+http://dom2tv.com 6 6
+http://kinosok.tv 6 6
+http://webrubl.ru 6 6
+http://gamecreating.org.ru 6 6
+http://www.tipkiller.com 6 6
+http://www.sdelatmebel.ru 6 6
+http://elochkaspb.ru 6 6
+http://usacar.us 6 6
+http://kinone.ru 5 5
+http://fileload.info 3 3
+http://domainvip.ru 3 3
+http://breastcancerbraceletsworld.com 3 3
+http://ater.spb.ru 3 3
+http://xn--90adhhccf5aeewt7j.xn--p1ai 3 3
+http://www.forex-guild.com 3 3
+http://bigmultik.net 3 3
+http://www.otvetnemail.ru 3 3
+http://www.otvetnemail.ru/forumdisplay.php 3 3
+http://www.orangeask.com 1 1
+http://seospyder.rolevaya.com 1 1
+http://elkindom.su 3 3
+http://searches.webtalk.ru 1 1
+http://green-trees.info 3 3
+http://wahforex.ru 3 3
+http://spstorg.ru 3 3
+http://masterskayaweb.ru 2 2
+http://sdelatmebel.com 3 3
+http://cosmetize.ru 3 3
+http://images.yandex.ua/yandsearch 0 1
+http://gamsup.ru 3 3
+http://novosibirsk.mebelnyj-magazin.ru 3 3
+http://www.sax-sex.com 3 3
+http://all4sensor.ru 3 3
+http://qseo.net 3 3
+http://pokypaem.ru 3 3
+http://filmio.tv 3 3
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 35
+techno-excel.com 7
+sandblasting 7
+techno+excel 6
+sandblasting+equipment 3
+techno%40ak%2dproject%2ecom 2
+rectangular+tanks+under+hydrostatic+pressure 1
+a 1
+gamma+ray+inspection 1
+tank+calibration+apimpms 1
+sphere+storage+tank+in+refinery 1
+horizontal+tank+calibration+in+api+method 1
+conoil+plc+logo 1
+software+for+tank+strapping 1
+calibration+for+fuel+storage+tank 1
+techno+excel+engineering+%26+inspection+services+limited 1
+emcee+meter 1
+horton+sphere+pressure+vessel 1
+tank+calibration+tables 1
+techno+engineering+certification+pipeline+projects 1
+rectangular+storage+tank 1
+manual+for+tank+strapping+method 1
+horton+sphere 1
+techno+excel+eng 1
+prover+tank+for+tanker+truck+calibration 1
+loading+gantry 1
+gas+tanker 1
+tank+calibration+software 1
+techno+team+inspection+machine 1
+oil+storage+tank+calibration 1
+cylindrical+tanks+fixed+roofs 1
+rectangular+tank 1
+floating+oil+storig+tenk 1
+sandblasting+%26+painting 1
+vertical+tanks 1
+truck+tank+calibration 1
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 63
+tank 13
+sandblasting 11
+techno 10
+calibration 8
+excel 8
+techno-excel.com 7
+for 4
+storage 4
+sphere 3
+tanks 3
+rectangular 3
+equipment 3
+inspection 3
+pressure 2
+%26 2
+truck 2
+in 2
+method 2
+engineering 2
+tanker 2
+strapping 2
+oil 2
+horton 2
+techno%40ak%2dproject%2ecom 2
+software 2
+fuel 1
+manual 1
+a 1
+storig 1
+projects 1
+roofs 1
+tables 1
+gantry 1
+pipeline 1
+horizontal 1
+hydrostatic 1
+loading 1
+refinery 1
+ray 1
+eng 1
+gamma 1
+vertical 1
+team 1
+apimpms 1
+gas 1
+fixed 1
+cylindrical 1
+limited 1
+conoil 1
+api 1
+prover 1
+painting 1
+machine 1
+under 1
+services 1
+plc 1
+certification 1
+floating 1
+logo 1
+emcee 1
+tenk 1
+vessel 1
+meter 1
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 2
+206 46 9078189
+404 1048 0
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 300
+/nphp/nphpd.php 1 -
+//phpMyAdmin-2.5.5-pl1/index.php 3 -
+/mysql/admin/ 1 -
+/db/phpmyadmin/ 1 -
+/mysql/dbadmin/ 1 -
+/mysqladmin/ 1 -
+/web/ 1 -
+/~/admin/ 1 -
+/modules/phpThumb/phpThumb.php 4 -
+/database/database/ 1 -
+/includes/include_once.php 2 -
+/3rdparty/phpMyAdmin/ 1 -
+/PHPMYADMIN/ 1 -
+/cpadmin/ 1 -
+/administrator/web/ 1 -
+/database/phpMyAdmin2/ 1 -
+/pm/lib.inc.php 2 -
+/p/pmwiki.php 1 -
+/sql/phpMyAdmin/ 1 -
+//phpadmin/index.php 3 -
+//phpMyAdmin-2.5.5/index.php 3 -
+//xampp/phpmyadmin/index.php 3 -
+/photo/main.php 2 -
+/photoalbums/main.php 2 -
+/images/main.php 3 -
+/myadmin/ 1 -
+/3rdparty/pma2005/ 1 -
+/modules/xgallery/upgrade_album.php 1 -
+/db/db-admin/ 1 -
+/wp-content/plugins/enable-latex/core.php 1 -
+/db/phpmyadmin2/ 1 -
+/db/phpMyAdmin-2/ 1 -
+/(webheadppl2.GIF) 88 http://techno-excel.com/ultrasonics.html
+/sql/phpmyadmin2/ 1 -
+/ppmwiki/pmwiki.php 1 -
+/sql/sqladmin/ 1 -
+/scgi-bin/stats/awstats.pl 9 -
+/phpmy/ 1 -
+/db/phpMyAdmin2/ 1 -
+/sqlweb/ 1 -
+/includes/calendar.php 2 -
+/cgi/awstats/awstats.pl 12 -
+/phppma/ 1 -
+/sql/webadmin/ 1 -
+/db/webdb/ 1 -
+/assets/components/phpthumb/phpThumb.php 4 -
+/photos/main.php 2 -
+/sql/sqlweb/ 1 -
+/cpdbadmin/ 1 -
+/mambots/editors/tinymce/jscripts/tiny_mce/plugins/ibrowser/scripts/phpThumb/phpThumb.php 4 -
+/wp-content/themes/comfy-plus/scripts/phpThumb/phpThumb.php 8 -
+/webhead_ppl4.jpg 1 -
+/gnu/index.php 2 -
+/ashnews.php 3 -
+/PMA/ 1 -
+/mysql/pMA/ 1 -
+/apps/phpAlbum/main.php 7 -
+//phpmyadmin/index.php 6 -
+/index.php/main.php 2 -
+/awstats/awstatstotals.php 4 -
+/phpalbum/main.php 5 -
+/mysql/db/ 1 -
+/wp-content/themes/fama/scripts/phpThumb/phpThumb.php 5 -
+/pollvote/pollvote.php 1 -
+/sources/post.php 1 -
+/database/phpMyAdmin/ 1 -
+/db/dbweb/ 1 -
+/(webnew.GIF) 15 http://techno-excel.com/
+/site.php 1 -
+/e107/e107_handlers/secure_img_render.php 2 -
+/~/phpadmin/ 1 -
+/content/phpthumb/phpthumb.php 4 -
+/wp-content/plugins/livesig/livesig-ajax-backend.php 1 -
+//admin/phpmyadmin/index.php 3 -
+/cpphpmyadmin/ 1 -
+//mysql/index.php 3 -
+/robots.txt 152 -
+/SQL/ 1 -
+/main.php 7 -
+/sql/sql/ 1 -
+/awstatstotals.php 4 -
+/pictures/utmachine.gif 12 http://techno-excel.com/
+/db/ 1 -
+/wp-content/plugins/annonces/includes/lib/photo/uploadPhoto.php 1 -
+/cpanelphpmyadmin/ 1 -
+/index-9x.jsp 1 -
+/htmltonuke.php 2 -
+/MyAdmin/ 1 -
+/albums/main.php 2 -
+/cpcommerce/_functions.php 2 -
+/sql/phpMyAdmin2/ 1 -
+/cgi-bin/awstats.pl 13 -
+/sql/webdb/ 1 -
+/mysql/mysqlmanager/ 1 -
+/websql/ 1 -
+/live-support/inc/pipe.php 2 -
+//phpMyAdmin-2.5.6/index.php 3 -
+/includes/setup.php 2 -
+/phpmyadmin2/ 1 -
+/phpgwapi/setup/tables_update.inc.php 2 -
+//phpMyAdmin-2.5.5-rc1/index.php 3 -
+/3rdparty/ 1 -
+/components/com_hotornot2/phpThumb/phpThumb.php 4 -
+/include/livre_include.php 1 -
+/sql/php-myadmin/ 1 -
+/poll/admin/common.inc.php 1 -
+/awstats/awstats.pl 14 -
+/sql/sql-admin/ 1 -
+/admin/sqladmin/ 1 -
+/3rdparty/myadmin/ 1 -
+/wiki/pmwiki.php 1 -
+/admin/ 1 -
+/pictures/oilinstallation1.gif 13 http://techno-excel.com/
+//phpMyAdmin-2.5.7-pl1/index.php 2 -
+/w/pmwiki.php 1 -
+/mysql/pma/ 1 -
+/php-my-admin/ 1 -
+/modules/My_eGallery/public/displayCategory.php 1 -
+/awstatstotals/awstatstotals.php 3 -
+/phpmyadmin1/ 1 -
+/include/db.php 1 -
+/db/myadmin/ 1 -
+/myPHPCalendar/admin.php 2 -
+/admin/scripts/tinymce/jscripts/tiny_mce/plugins/ibrowser/scripts/phpThumb/phpThumb.php 4 -
+/db/websql/ 1 -
+//phpMyAdmin-2.2.3/index.php 3 -
+/phpThumb.php 4 -
+/3rdparty/pma/ 1 -
+/sql/myadmin/ 1 -
+/administrator/db/ 1 -
+/libs/phpThumb/phpThumb.php 5 -
+/cms/plugins/content/jthumbs/includes/phpThumb.php 6 -
+//websql/index.php 3 -
+/mysql/web/ 1 -
+/sql/phpmy-admin/ 1 -
+//db/index.php 3 -
+/phpMyAdmin/ 1 -
+/~/phpmanager/ 1 -
+/mysql-admin/ 1 -
+/components/com_flexicontent/librairies/phpthumb/phpThumb.php 4 -
+/3rdparty/admin/ 1 -
+/admin/db/ 1 -
+/wp-content/themes/victore/phpthumb/phpThumb.php 5 -
+/phpmanager/ 1 -
+/db/webadmin/ 1 -
+//phpMyAdmin-2.5.6-rc2/index.php 3 -
+/ 9 -
+//web/phpMyAdmin/index.php 3 -
+/includes/header.php 1 -
+/qql/ 1 -
+//myadmin/index.php 3 -
+/stats/awstats.pl 7 -
+/staticfiles/phpThumb/phpThumb.php 4 -
+/admin/phpMyAdmin/ 1 -
+/pic/main.php 2 -
+/phpmya/ 1 -
+/sl2/data/ 1 -
+//phpMyAdmin-2.5.1/index.php 3 -
+/webadmin/ 1 -
+/wp-content/themes/wp-max/scripts/phpThumb/phpThumb.php 9 -
+/zadmin/tiny_mce/plugins/ibrowser/scripts/phpThumb/phpThumb.php 4 -
+/admin/pMA/ 1 -
+//phpMyAdmin/index.php 6 -
+/administrator/pma/ 1 -
+//web/index.php 3 -
+/shoutbox/expanded.php 2 -
+//admin/pma/index.php 3 -
+/hcl/inc/pipe.php 2 -
+//index.php 3 -
+/include/new-visitor.inc.php 2 -
+/cpanelsql/ 1 -
+/web/phpMyAdmin/ 1 -
+/pma/ 1 -
+/wp-content/plugins/allwebmenus-wordpress-menu-plugin/actions.php 2 -
+/phpMyAdmin2/ 1 -
+//pma/index.php 3 -
+/img/main.php 3 -
+/administrator/admin/ 1 -
+/pics/main.php 3 -
+/inc/authform.inc.php 2 -
+/sql/websql/ 1 -
+/inc/pipe.php 2 -
+/program/ 1 -
+/admin/pma/ 1 -
+/pmwiki/pmwiki.php 1 -
+/database/phpmyadmin2/ 1 -
+/modules/coppermine/themes/default/theme.php 2 -
+/catalog/shopping_cart.php 2 -
+/helpcenter/inc/pipe.php 2 -
+/support/faq/inc/pipe.php 2 -
+/gallery/phpThumb/phpThumb.php 5 -
+/phpAlbum/main.php 5 -
+/components/com_alphacontent/assets/phpthumb/phpThumb.php 4 -
+/stat/awstatstotals.php 3 -
+/roundcube/ 1 -
+/common/scripts/phpThumb/phpThumb.php 5 -
+/inc/shows.inc.php 1 -
+/thumb/phpThumb.php 4 -
+//mysqladmin/index.php 3 -
+/pma2005/ 1 -
+/3rdparty/dbadmin/ 1 -
+/b2-tools/gm-2-b2.php 2 -
+/album/main.php 3 -
+/admin/phpmyadmin/ 1 -
+/database/phpmyadmin/ 1 -
+/wp-content/themes/max/scripts/phpThumb/phpThumb.php 4 -
+/_functions.php 2 -
+//phpmyadmin1/index.php 3 -
+/admin/tiny_mce/plugins/ibrowser/scripts/phpThumb/phpThumb.php 4 -
+/manager/phpThumb/phpThumb.php 4 -
+/db.php 2 -
+/components/com_alphauserpoints/assets/phpThumb/phpThumb.php 4 -
+/bb_lib/checkdb.inc.php 1 -
+/scgi-bin/awstats/awstats.pl 9 -
+/wp-content/plugins/zingiri-web-shop/fws/ajax/init.inc.php 1 -
+/forum/install.php 2 -
+//phpmyadmin2/index.php 3 -
+/wikipedia/pmwiki.php 1 -
+/php-myadmin/ 1 -
+/wp-content/themes/Comfy/scripts/phpThumb/phpThumb.php 5 -
+/cgi-bin/stats/awstats.pl 12 -
+/phpadmin/ 1 -
+//typo3/phpmyadmin/index.php 3 -
+//phpMyAdmin-2.5.6-rc1/index.php 3 -
+//phpMyAdmin-2/index.php 3 -
+/cgi-bin/awstats/awstats.pl 13 -
+/admin/web/ 1 -
+/mysqladminconfig/ 1 -
+/livehelp/inc/pipe.php 2 -
+/pmwiki2/pmwiki.php 1 -
+/admin/sysadmin/ 1 -
+/wp-content/themes/redcarpet/scripts/phpthumb/phpthumb.php 8 -
+/phpThumb/phpThumb.php 5 -
+/wp-content/plugins/com-resize/phpthumb/phpThumb.php 4 -
+/lib/phpThumb/phpThumb.php 4 -
+//admin/index.php 3 -
+/includes/include_onde.php 2 -
+/template.php 2 -
+/ashheadlines.php 1 -
+/index.inc.php 1 -
+/apps/phpalbum/main.php 4 -
+/refinery.html 9 http://images.search.yahoo.com/images/view
+/class/phpthumb/phpThumb.php 4 -
+/PMA2005/ 1 -
+/phpmy-admin/ 1 -
+/administrator/phpmyadmin/ 1 -
+/scgi-bin/awstats.pl 10 -
+/mysqlmanager/ 1 -
+/phpmyadmin/ 1 -
+/mysql/ 1 -
+/Gallery/displayCategory.php 1 -
+/admin/phpThumb/phpThumb.php 4 -
+/demo/includes/init.php 1 -
+/modules/agendax/addevent.inc.php 4 -
+/db/dbadmin/ 1 -
+/admin/upload/phpThumb.php 4 -
+/global/phpthumb/phpThumb.php 4 -
+/jaf/index.php 1 -
+/include/authform.inc.php 2 -
+//phpMyAdmin-2.5.7/index.php 3 -
+/administrator/PMA/ 1 -
+/eblog/blog.inc.php 2 -
+/components/com_hotornot2/phpthumb/phpThumb.php 8 -
+/sql/phpmanager/ 1 -
+/phpMyAdmin-2/ 1 -
+/cpadmindb/ 1 -
+/wp-content/plugins/ione-core/phpthumb/phpThumb.php 6 -
+//dbadmin/index.php 2 -
+/scripts/awstats.pl 8 -
+/bbs/data/ 1 -
+/3rdparty/setup.php 1 -
+//php-my-admin/index.php 5 -
+/database/ 1 -
+/fwkfor/ajax/init.inc.php 1 -
+/modules/mod_mainmenu.php 4 -
+/muieblackcat 3 -
+/c-panel 2 -
+/webdb/ 1 -
+/js/tiny_mce/plugins/ibrowser/scripts/phpThumb/phpThumb.php 4 -
+/pmwiki.php 1 -
+//phpMyAdmin-2.5.4/index.php 3 -
+/help/faq/inc/pipe.php 2 -
+/mysql/sqlmanager/ 1 -
+/typo3/phpmyadmin/ 1 -
+/wp-includes/functions.php 1 -
+/db/phpMyAdmin/ 1 -
+/pictures/hortonshere.gif 14 http://techno-excel.com/
+/sqlmanager/ 1 -
+/gnu3/index.php 2 -
+/sqladmin/ 1 -
+/administrator/phpMyAdmin/ 1 -
+//phpMyAdmin-2.5.5-rc2/index.php 3 -
+/p/m/a/ 1 -
+//phpMyAdmin-2.2.6/index.php 2 -
+/~/myadmin/ 1 -
+/photoalbum/main.php 2 -
+/index.php 38 -
+/cpanelmysql/ 1 -
+/dbadmin/ 1 -
+/scgi/awstats/awstats.pl 9 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 147
+178.137.129.61 26 26 171748 20111223123624
+193.106.136.57 21 21 172077 20111230200235
+193.106.136.32 20 20 146371 20111215204330
+38.100.21.21 18 19 129765 20111221125052
+173.193.216.83 18 18 122416 20111224151127
+178.137.128.42 12 12 114720 20111206160646
+193.106.136.52 12 12 90987 20111212000105
+193.106.136.45 12 12 76476 20111221223340
+69.58.178.57 11 11 82218 20111202002503
+193.106.136.61 9 9 57357 20111225014306
+41.58.19.69 9 44 7960808 20111202144952
+94.182.36.123 9 47 8152578 20111202081959
+50.23.239.14 8 8 76480 20111231224031
+193.106.136.35 6 6 57360 20111204175751
+178.137.5.61 6 6 38238 20111229180616
+178.137.5.135 6 6 41538 20111209104244
+178.137.129.206 6 6 38238 20111226045821
+178.137.5.90 6 6 57360 20111202072257
+95.220.180.231 5 10 84545 20111213183851
+197.255.168.121 4 58 9178766 20111206133222
+193.106.136.55 3 3 19119 20111226040912
+193.106.136.53 3 3 20769 20111213184642
+178.137.5.87 3 3 28680 20111201012029
+178.137.128.74 3 3 28680 20111203022413
+118.68.192.82 3 35 6400363 20111210023856
+216.38.216.220 2 4 33818 20111212014826
+92.99.41.205 1 9 2111626 20111203192003
+72.14.202.86 0 2 590188 
+173.255.243.208 2 2 16328 20111218010154
+72.14.202.80 0 1 156325 
+196.205.171.9 1 8 1994732 20111212234116
+72.14.202.84 0 1 279993 
+61.155.149.243 0 1 26285 
+98.198.151.224 0 1 287862 
+95.220.242.56 2 4 33818 20111212202204
+180.247.108.21 0 1 62488 
+180.149.130.17 1 1 9560 20111203062219
+61.155.149.233 0 1 31264 
+41.206.12.78 0 3 618578 
+117.202.116.224 1 10 2237708 20111220121630
+95.30.240.147 0 1 38621 
+75.101.181.182 1 1 9560 20111203231505
+110.139.22.218 1 5 541525 20111222075158
+69.95.227.87 1 5 541525 20111212175247
+61.155.149.245 0 1 28829 
+68.116.17.242 1 6 1489376 20111218173251
+180.149.130.148 1 1 9560 20111231084013
+65.35.9.231 1 5 541525 20111220001445
+112.198.82.221 0 1 296840 
+68.120.57.193 1 51 8692760 20111231011800
+41.58.67.96 1 1 9560 20111201062031
+197.28.10.232 1 5 541525 20111220235820
+41.206.15.14 1 1 0 20111208121020
+41.206.12.34 0 33 0 
+41.206.12.38 1 2 0 20111207195013
+8.21.4.254 1 1 9560 20111201003518
+165.72.200.11 1 10 1001513 20111203170142
+61.155.149.239 0 1 30816 
+111.93.111.130 1 8 1994732 20111212143733
+46.98.197.236 0 1 38621 
+178.187.73.90 0 1 38621 
+182.177.12.224 1 6 584404 20111204122700
+72.94.249.38 1 1 9560 20111202110223
+223.205.181.40 1 2 302547 20111222114033
+202.75.80.61 1 5 541525 20111222075139
+220.117.136.72 1 8 1435385 20111227142019
+200.110.245.116 2 9 2001144 20111203011929
+74.125.42.83 1 3 50106 20111206132136
+61.155.149.235 1 1 9560 20111203035109
+142.3.121.107 0 1 352567 
+218.248.23.210 0 2 705134 
+61.155.149.240 0 1 7349 
+70.148.121.249 1 5 541525 20111216211608
+107.22.18.221 2 2 13180 20111230195946
+217.164.128.237 1 6 1489376 20111227170859
+122.55.93.19 1 51 9083847 20111205134107
+72.14.202.89 0 1 917609 
+110.139.125.63 0 2 492124 
+88.198.66.216 2 2 19120 20111217224602
+203.82.95.117 0 1 917609 
+121.242.118.75 1 8 1994732 20111212051445
+82.128.81.135 3 10 2008268 20111209190842
+8.28.16.254 1 1 5707 20111203231038
+99.109.64.15 1 8 1994732 20111220014224
+164.85.68.11 1 6 584404 20111227112552
+174.47.243.115 1 5 541525 20111227022755
+41.27.178.122 1 6 838365 20111203110546
+68.96.157.11 1 16 4150334 20111227214258
+61.133.143.49 2 52 9119611 20111202023103
+41.139.92.152 1 8 1994732 20111230113258
+110.138.129.249 1 1 9560 20111224083451
+219.95.150.49 1 9 2274725 20111208083135
+60.235.22.106 1 50 9076498 20111230090424
+98.70.103.25 1 2 302547 20111225204716
+77.41.104.107 0 1 38621 
+109.205.113.195 2 9 2001500 20111222094801
+99.255.255.232 0 1 352567 
+41.184.99.22 1 9 1358139 20111223233958
+205.235.115.39 1 8 1994732 20111201181504
+61.155.149.237 0 1 15287 
+109.70.66.72 0 1 287862 
+94.128.127.102 1 10 1001513 20111214170418
+82.145.217.67 2 56 9162438 20111213133850
+180.149.30.52 2 13 2858723 20111218124859
+157.55.17.89 1 2 16909 20111210180504
+94.41.97.50 0 1 38621 
+74.207.251.132 2 2 16328 20111209055308
+61.155.149.244 0 1 30065 
+186.114.57.201 1 5 541525 20111219200109
+113.167.173.254 1 1 9560 20111222043722
+188.158.174.96 1 1 9560 20111202134128
+176.77.36.89 0 1 38621 
+83.149.35.65 0 1 38621 
+64.19.26.68 0 1 352567 
+155.104.37.18 1 5 541525 20111221141416
+77.114.49.37 2 6 541525 20111209090246
+87.101.147.70 0 1 917609 
+61.155.149.231 0 1 8616 
+61.155.149.241 0 1 28618 
+217.199.133.70 0 2 575724 
+24.217.81.130 0 1 352567 
+125.89.75.100 1 1 9560 20111230104745
+77.221.97.140 0 1 352567 
+216.104.15.130 1 1 6923 20111226153955
+82.145.209.185 2 66 10995668 20111204160228
+141.0.10.0 2 56 9162794 20111206231256
+61.155.149.238 0 1 10212 
+95.190.47.200 0 1 38621 
+41.206.12.77 1 29 2912112 20111223143849
+41.190.2.158 0 2 1835218 
+94.102.72.29 1 8 1994732 20111226153510
+218.61.204.81 1 1 9560 20111217220215
+72.14.202.85 1 3 50617 20111212054823
+46.147.211.31 0 1 38621 
+41.58.28.198 1 1 9560 20111204113828
+41.206.12.33 1 21 0 20111207194712
+193.106.136.60 3 3 19119 20111229150514
+196.46.245.43 1 13 1883336 20111205175120
+193.106.136.39 3 3 28680 20111205142912
+213.110.133.221 2 2 12746 20111231115628
+192.206.180.200 1 5 541525 20111203231039
+207.46.12.21 1 2 14117 20111226211803
+178.179.12.103 0 1 38621 
+110.5.100.204 1 8 1994732 20111214042424
+41.206.15.12 1 1 9560 20111208120804
+193.106.136.59 3 3 20769 20111209223422
+119.155.19.225 1 8 1994732 20111208155831
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 31
+20111201 6 15 2433720 4
+20111202 51 176 26462645 11
+20111203 13 60 7427547 10
+20111204 13 82 11675672 6
+20111205 14 76 11081903 6
+20111206 11 122 18468527 5
+20111207 11 67 1905436 5
+20111208 10 27 4397797 6
+20111209 13 24 2607659 5
+20111210 4 37 6417272 2
+20111211 7 7 51098 3
+20111212 18 57 9264741 11
+20111213 11 74 10160624 8
+20111214 5 23 3118123 3
+20111215 10 10 69230 4
+20111216 2 6 551085 2
+20111217 6 6 47799 3
+20111218 5 23 5069561 3
+20111219 11 18 1666143 5
+20111220 10 34 5353728 6
+20111221 23 28 699969 4
+20111222 9 25 3415776 6
+20111223 5 44 4907948 3
+20111224 25 26 1087823 4
+20111225 4 5 321666 2
+20111226 13 21 2082689 7
+20111227 5 41 8201024 5
+20111228 3 4 315959 1
+20111229 9 9 57357 3
+20111230 12 68 11138581 7
+20111231 4 54 8718253 4
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 5
+5mn-15mn 3
+15mn-30mn 1
+2mn-5mn 4
+30s-2mn 7
+0s-30s 139
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 18
+/ 100 946440 62 52
+/instrumentations.html 72 458856 25 25
+/storage_tanks.html 70 484610 35 29
+/sandblasting_painting.html 20 108433 15 15
+/contactus.html 14 87984 4 7
+/services.html 11 64120 2 5
+/gasplants.html 9 60885 4 6
+/clients.html 6 47892 2 3
+/flow_meters.html 6 40800 0 1
+/oilinstallations.html 6 38298 2 2
+/home.html 6 57360 1 3
+/refineries.html 5 30400 0 1
+/truck_tankers.html 5 31000 0 1
+/cathodic_protection.html 4 24148 2 3
+/ultrasonics.html 3 18882 0 1
+/vacuumbox_testing.html 2 12304 0 0
+/gammaray.html 2 12518 0 0
+/pipeline_pressuretest.html 2 12322 0 0
+END_SIDER

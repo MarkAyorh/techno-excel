@@ -1,0 +1,7 @@
+
+[09-May-2012 21:28:57 UTC] PHP Warning:  mysql_select_db() [<a href='function.mysql-select-db'>function.mysql-select-db</a>]: A link to the server could not be established in /home/technoex/public_html/mysql_bankupdate.php on line 15
+[24-Jan-2013 15:01:57 Europe/Moscow] PHP Warning:  Unterminated comment starting line 132 in /home/technoex/public_html/application/config/config.php on line 132
+[26-Jan-2013 21:37:08 Europe/Moscow] PHP Fatal error:  Call to a member function run() on a non-object in /home/technoex/public_html/application/controllers/pages.php on line 41
+[13-Dec-2015 07:38:01 UTC] PHP Fatal error:  XCache: Failed init allocator in Unknown on line 0
+[13-Dec-2015 07:38:01 UTC] PHP Fatal error:  XCache: failed init opcode cache in Unknown on line 0
+[13-Dec-2015 07:38:01 UTC] PHP Fatal error:  XCache: Cannot init in Unknown on line 0

@@ -1,0 +1,546 @@
+AWSTATS DATA FILE 7.0 (build 1.971)
+# If you remove this file, all statistics for date 201105 will be lost/reset.
+# Last config file used to build this data file was /home/technoex/tmp/awstats/awstats.techno-excel.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 27
+POS_GENERAL 2010                
+POS_TIME 2687                
+POS_VISITOR 11894               
+POS_DAY 18071               
+POS_DOMAIN 3469                
+POS_LOGIN 3966                
+POS_ROBOT 4121                
+POS_WORMS 4448                
+POS_EMAILSENDER 4579                
+POS_EMAILRECEIVER 4722                
+POS_SESSION 18633               
+POS_SIDER 18831               
+POS_FILETYPES 4857                
+POS_DOWNLOADS 19490               
+POS_OS 4998                
+POS_BROWSER 5130                
+POS_SCREENSIZE 5514                
+POS_UNKNOWNREFERER 5588                
+POS_UNKNOWNREFERERBROWSER 5912                
+POS_ORIGIN 5994                
+POS_SEREFERRALS 6133                
+POS_PAGEREFS 6307                
+POS_SEARCHWORDS 6608                
+POS_KEYWORDS 6926                
+POS_MISC 2350                
+POS_ERRORS 7123                
+POS_CLUSTER 3822                
+POS_SIDER_404 7233                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20110601051338 14 3259 153511596186
+FirstTime 20110509163229
+LastTime 20110531134131
+LastUpdate 20110601131305 14 0 13 0 0
+TotalVisits 156                 
+TotalUnique 110                 
+MonthHostsKnown 102                 
+MonthHostsUnknown 29                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 28 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 1 12 898876 3 56 10577894
+1 2 9 726142 5 14 1478891
+2 0 0 0 4 8 481195
+3 0 2 1835218 3 6 683620
+4 2 7 509528 13 15 231543
+5 2 14 1856463 8 12 40036
+6 3 12 1318310 12 21 2460458
+7 1 1 1706 5 14 1927401
+8 1 5 509559 13 24 2280895
+9 13 30 451591 7 84 784725
+10 24 74 7811466 3 41 11372
+11 14 68 6137039 4 12 788818
+12 32 63 2518631 11 44 3608825
+13 24 142 12266130 34 41 98417
+14 27 92 3533676 6 46 4012794
+15 6 44 3056943 2 4 5023
+16 39 128 9241141 23 213 2606518
+17 9 31 5515780 12 28 932118
+18 11 52 3092163 11 15 49102
+19 26 137 2365461 9 54 23338
+20 29 94 12637684 7 67 1635611
+21 3 8 904193 5 7 10874
+22 0 0 0 24 24 108666
+23 4 22 4304638 5 9 357812
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 19
+ng 192 794 48721487
+us 60 126 12707094
+in 6 27 3546357
+gr 3 14 926704
+cn 2 2 3292
+ro 1 5 509559
+id 1 8 718924
+it 1 8 1897562
+za 1 8 723195
+pl 1 9 2307114
+ca 1 5 509528
+de 1 8 1953570
+ke 1 8 1897555
+ae 1 13 1849245
+pe 1 5 509528
+ru 0 1 384282
+my 0 1 195284
+th 0 3 1835218
+kw 0 2 296840
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 5
+googlebot 231 21258308 20110531121002 0
+slurp 24 123239 20110529181813 0
+no_user_agent 3 5118 20110513043817 0
+bot[\s_+:,\.\;\/\\-] 3 20243 20110525174547 0
+msnbot\-media 2 8314 20110531165518 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 5
+php 45 131984 0 0
+css 89 382726 0 0
+html 228 964372 0 0
+jpg 2 16488 0 0
+gif 683 79996768 0 0
+END_FILETYPES
+
+# OS ID - Hits
+BEGIN_OS 9
+winlong 711
+winxp 84
+winnt 1
+linux 14
+win7 8
+macosx 30
+linuxdebian 31
+Unknown 31
+win2008 137
+END_OS
+
+# Browser ID - Hits
+BEGIN_BROWSER 23
+msie6.0 6
+chrome11.0.696.68 198
+firefox5.0 8
+firefox4.0.1 154
+lwp 2
+chrome0. 6
+chrome5.0.396.0 126
+firefox3.6.17 5
+chrome9.0.597 12
+opera9.80 37
+firefox3.6.15 8
+msie8.0 68
+firefox2.0.0.14 11
+mozilla 48
+msie7.0 6
+firefox3.5.19 42
+msie5.0 1
+msie9.0 83
+chrome11.0.696.71 163
+chrome11.0.696.65 39
+safari 2
+safari5.0.5 21
+firefox3.6.13 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 3
+LWP::Simple/5.805 20110523133122
+Opera/9.80_(S60;_SymbOS;_Opera_Mobi/SYB-1104051448;_U;_en-US)_Presto/2.7.81_Version/11.00 20110517000933
+Mozilla/4.0_(compatible;_http://search.thunderstone.com/texis/websearch/about.html) 20110526122734
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 0
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 90 101
+From1 0 0
+From2 22 46
+From3 5 5
+From4 156 895
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 2
+google 21 44
+google_image 1 2
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 3
+http://uk.mg40.mail.yahoo.com/dc/blank.html 3 3
+http://trudigits.com/admin/clientshosting.php 1 1
+http://www.bruceclay.com/cgi-bin/checkredirect.cgi 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 5
+techno+excel 2
+emcee+conductivity+calibration 1
+techno-excel.com 1
+vertical+cylindrical+storage+tank+calibration+software 1
+storage+tank+calibration+download+excel 1
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 12
+calibration 3
+excel 3
+techno 2
+tank 2
+storage 2
+cylindrical 1
+techno-excel.com 1
+conductivity 1
+software 1
+emcee 1
+vertical 1
+download 1
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 3
+206 128 13649946
+301 1 0
+404 434 0
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 62
+/ 2 -
+/pictures/flowmeter_smith.gif 12 http://www.techno-excel.com/flow_meters.html
+/robots.txt 62 -
+/pictures/oilinstallation1.gif 2 http://techno-excel.com/
+/clients_image/saharaclient.gif 3 http://www.techno-excel.com/clients.html
+/pictures/oilinstallations1.gif 1 http://www.techno-excel.com/oilinstallations.html
+/refinery.html 9 http://www.techno-excel.com/flow_meters.html
+/pictures/utmachine.gif 2 http://techno-excel.com/
+/pictures/truckcaliboando2.gif 4 http://www.techno-excel.com/truck_tankers.html
+/pictures/horizontal_tank.gif 3 http://www.techno-excel.com/storage_tanks.html
+/pictures/levelling.gif 1 http://www.techno-excel.com/oilinstallations.html
+/email2.php 3 -
+/pictures/cathodic2.gif 2 http://www.techno-excel.com/cathodic_protection.html
+/pictures/xray2.gif 4 http://www.techno-excel.com/pipeline_pressuretest.html
+/email2 1 -
+/pictures/gastank2.gif 1 http://www.techno-excel.com/gasplants.html
+/pics_image/flowmeter_lcmeter.gif 10 http://www.techno-excel.com/flow_meters.html
+/gasmagnatel.gif 33 http://www.techno-excel.com/
+/clients_image/ipiclient.gif 3 http://www.techno-excel.com/clients.html
+/pictures/thermometer2.gif 2 http://www.techno-excel.com/instrumentations.html
+/home.html 2 http://www.techno-excel.com/clients.html
+/pictures/flowmeter_lcmeter.gif 12 http://www.techno-excel.com/flow_meters.html
+/clients_image/cakasaclient.gif 3 http://www.techno-excel.com/clients.html
+/images/td_header.jpg 37 http://www.techno-excel.com/
+/pictures/measuringcan.gif 12 http://www.techno-excel.com/flow_meters.html
+/pics_image/flowmeter_averyhardoll.gif 10 http://www.techno-excel.com/flow_meters.html
+/pictures/truckcaliboando1.gif 4 http://www.techno-excel.com/truck_tankers.html
+/pictures/pressuregauge2.gif 2 http://www.techno-excel.com/instrumentations.html
+/scroll_image/lpgtanks.gif 59 http://www.techno-excel.com/
+/pictures/sandblasting2.gif 1 http://www.techno-excel.com/sandblasting_painting.html
+/clients_image/oandoclient.gif 3 http://www.techno-excel.com/clients.html
+/pictures/verticaltank.gif 3 http://www.techno-excel.com/storage_tanks.html
+/pictures/rectangulartank.gif 3 http://www.techno-excel.com/storage_tanks.html
+/pictures/cathodic3.gif 2 http://www.techno-excel.com/cathodic_protection.html
+/pictures/sandblasting1.gif 1 http://www.techno-excel.com/sandblasting_painting.html
+/pictures/analoguethermo.gif 2 http://www.techno-excel.com/instrumentations.html
+/clients_image/mobilclient.gif 3 http://www.techno-excel.com/clients.html
+/pictures/loadingantry.gif 1 http://www.techno-excel.com/oilinstallations.html
+/pictures/truckcaliboando3.gif 4 http://www.techno-excel.com/truck_tankers.html
+/pictures/hortonsphere.gif 4 http://www.techno-excel.com/storage_tanks.html
+/pics_image/prover.gif 10 http://www.techno-excel.com/flow_meters.html
+/pictures/gasmagnatel.gif 1 http://www.techno-excel.com/gasplants.html
+/LOGO.gif 12 http://www.techno-excel.com/
+/pictures/gastank1.gif 1 http://www.techno-excel.com/gasplants.html
+/pics_image/flowmeter_smith.gif 10 http://www.techno-excel.com/flow_meters.html
+/pictures/utmmachine.gif 3 http://www.techno-excel.com/pipeline_pressuretest.html
+/pictures/flowmeter_averyhardoll.gif 12 http://www.techno-excel.com/flow_meters.html
+/pictures/hortonshere.gif 2 http://techno-excel.com/
+/clients_image/so_aviationclient.gif 3 http://www.techno-excel.com/clients.html
+/pictures/xray1.gif 3 http://www.techno-excel.com/pipeline_pressuretest.html
+/pictures/pressuregauge1.gif 2 http://www.techno-excel.com/instrumentations.html
+/pictures/cathodic1.gif 2 http://www.techno-excel.com/cathodic_protection.html
+/clients_image/sykesclient.gif 3 http://www.techno-excel.com/clients.html
+/pictures/prover.gif 15 http://www.techno-excel.com/flow_meters.html
+/pictures/hydrometer2.gif 2 http://www.techno-excel.com/instrumentations.html
+/clients_image/heydenclient.gif 3 http://www.techno-excel.com/clients.html
+/pictures/pressuretestkit.gif 3 http://www.techno-excel.com/pipeline_pressuretest.html
+/pictures/dyepen.gif 3 http://www.techno-excel.com/pipeline_pressuretest.html
+/pics_image/measuringcan.gif 9 http://www.techno-excel.com/flow_meters.html
+/clients_image/conoilclient.gif 3 http://www.techno-excel.com/clients.html
+/pictures/thermometer1.gif 2 http://www.techno-excel.com/instrumentations.html
+/pictures/emcee_meter.gif 2 http://www.techno-excel.com/instrumentations.html
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 131
+38.99.82.229 17 27 992339 20110518210737
+copilot.thunderstone.com 17 17 93790 20110526122734
+41.206.11.30.vgccl.net 14 27 2607854 20110516161923
+41.220.69.50.mtngprs.net 9 29 1144100 20110527143550
+41.220.69.41.mtngprs.net 8 25 434359 20110524130758
+41.206.11.24.vgccl.net 6 8 20689 20110517192718
+ec2-174-129-117-237.compute-1.amazonaws.com 6 6 0 20110529164842
+41.220.69.43.mtngprs.net 6 20 1135463 20110518170301
+41.73.12.197 5 33 4703322 20110520163235
+41.206.11.25.vgccl.net 5 14 3062780 20110517193954
+41.220.69.6.mtngprs.net 5 16 2787706 20110527143519
+41.220.69.46.mtngprs.net 5 11 1577935 20110523142222
+41.220.69.20.mtngprs.net 5 18 1065199 20110528164917
+41.206.11.2.vgccl.net 4 18 424503 20110517123459
+41.220.69.40.mtngprs.net 4 15 325865 20110523132418
+41.220.69.34.mtngprs.net 4 8 25120 20110530190445
+41.220.69.38.mtngprs.net 4 24 2409590 20110524130707
+41.206.11.22.vgccl.net 4 23 2548172 20110517103340
+41.206.11.1.vgccl.net 4 19 53608 20110516162259
+41.220.69.36.mtngprs.net 4 15 1092128 20110530185734
+8.26.103.51 3 3 14436 20110523131631
+41.206.12.51.mtngprs.net 3 15 52428 20110518100838
+41.206.12.58.mtngprs.net 3 6 64684 20110518103853
+41.220.69.48.mtngprs.net 3 12 2413581 20110523142319
+adsl-128.91.140.46.tellas.gr 3 14 926704 20110519181344
+41.206.12.46.mtngprs.net 1 8 1242003 20110524151035
+41.206.12.72.mtngprs.net 1 1 299 20110519104312
+41.206.12.45.mtngprs.net 1 8 126685 20110524145952
+mail.zkadvertising.co.ke 1 8 1897555 20110524103210
+41.220.69.10.mtngprs.net 1 1 5490 20110514100055
+wblv-ip-pcache-5-vif0.telkom-ipnet.co.za 0 1 167217 
+41.206.12.7.mtngprs.net 1 9 222093 20110516185652
+41.206.12.1.mtngprs.net 1 1 1706 20110513174443
+41.206.12.64.mtngprs.net 1 1 4341 20110518104533
+41.220.69.39.mtngprs.net 2 16 470114 20110516191502
+64.233.182.87 0 1 13893 
+41.206.12.38.mtngprs.net 0 1 0 
+41.206.12.53.mtngprs.net 1 11 1423685 20110518103516
+41.206.12.43.mtngprs.net 1 5 7218 20110524151717
+smtp10.gpotato.net 2 2 14436 20110519054558
+41.206.12.48.mtngprs.net 2 11 0 20110517115352
+74.125.152.86 0 1 30065 
+41.220.69.37.mtngprs.net 0 4 733826 
+wblv-ip-pcache-8-vif0.telkom-ipnet.co.za 0 1 85484 
+41.206.12.16.mtngprs.net 1 1 4341 20110518150218
+41.220.69.45.mtngprs.net 1 18 1674694 20110516203320
+41.220.69.35.mtngprs.net 2 60 1349072 20110530190702
+41.206.12.57.mtngprs.net 1 2 0 20110517120055
+178-45-14-91.saransk.ru 0 1 384282 
+41.206.12.44.mtngprs.net 1 10 90888 20110524150621
+41.206.12.60.mtngprs.net 1 1 4341 20110518104243
+97.65.252.93 1 8 1897555 20110523235341
+41.206.12.20.mtngprs.net 2 3 43054 20110517111426
+inr138.internetdsl.tpnet.pl 1 9 2307114 20110524105829
+41.206.12.80.mtngprs.net 1 1 4341 20110518143609
+199.19.249.196 1 1 4811 20110528190241
+194.54.209.80 0 2 296840 
+41.206.12.37.mtngprs.net 1 2 0 20110518094915
+2.49.96.143 1 13 1849245 20110529050047
+41.206.12.67.mtngprs.net 1 1 297 20110517143732
+41.220.69.47.mtngprs.net 3 13 1071878 20110516203928
+115.242.42.247 3 11 1720134 20110518172500
+41.206.12.52.mtngprs.net 0 6 0 
+74.125.74.130 0 4 764504 
+41.206.12.5.mtngprs.net 1 7 1524354 20110516185844
+66.249.17.166 1 1 1682 20110511101219
+static-202.29.96.14.tataidc.co.in 2 11 1316664 20110521065311
+41.220.69.31.mtngprs.net 2 13 8891 20110526120718
+217.6.110.226 1 8 1953570 20110531134131
+wblv-ip-pcache-4-vif1.telkom-ipnet.co.za 0 1 2538 
+64.233.182.84 0 1 29527 
+72.46.133.189 1 8 1897555 20110524232815
+41.220.69.8.mtngprs.net 2 2 11526 20110527143805
+ppp-70-251-109-115.dsl.rcsntx.swbell.net 1 8 1897555 20110523205310
+41.206.12.19.mtngprs.net 1 9 1703276 20110517111246
+115.164.25.76 0 1 195284 
+crlspr-69.65.67.213.myacc.net 1 11 1142179 20110528162402
+8.26.103.53 3 3 14436 20110523133122
+mail.cppq.com.pe 1 5 509528 20110530231753
+41.220.69.16.mtngprs.net 1 1 0 20110528164942
+64.233.182.82 0 2 28823 
+67-61-51-135.cpe.cableone.net 1 13 3777501 20110523172306
+89.122.17.143 1 5 509559 20110525212101
+wblv-ip-pcache-8-vif1.telkom-ipnet.co.za 0 2 95539 
+41.206.12.2.mtngprs.net 3 7 81242 20110531102724
+41.190.2.105 1 12 898876 20110517000830
+41.206.12.32.mtngprs.net 0 7 1107159 
+196.46.245.35 1 3 10508 20110509163229
+64.233.182.86 1 2 17273 20110517130139
+38.99.82.232 2 4 34546 20110519100000
+41.206.12.74.mtngprs.net 1 1 4341 20110518111252
+41.220.69.18.mtngprs.net 3 14 12827 20110527143112
+41.206.12.77.mtngprs.net 1 3 4261 20110517123612
+41.220.69.11.mtngprs.net 3 4 1706 20110528164928
+74.125.152.82 0 1 31264 
+41.220.69.15.mtngprs.net 1 2 0 20110514100349
+41.206.12.6.mtngprs.net 1 1 4341 20110518143329
+41.206.12.31.mtngprs.net 0 2 12593 
+41.206.12.50.mtngprs.net 1 1 0 20110517115304
+41.206.12.79.mtngprs.net 0 1 0 
+41.206.12.3.mtngprs.net 1 5 669517 20110516185854
+93.56.47.0 1 8 1897562 20110529123331
+41.220.69.9.mtngprs.net 0 1 0 
+41.220.69.49.mtngprs.net 1 12 569359 20110514095425
+minitaoqi.com 1 1 1706 20110515074227
+41.206.12.66.mtngprs.net 2 9 9653 20110524154940
+125.24.181.194.adsl.dynamic.totbb.net 0 3 1835218 
+41.206.12.34.mtngprs.net 1 8 0 20110517113707
+59.92.188.228 1 5 509559 20110522080702
+41.206.12.15.mtngprs.net 2 12 71409 20110518144812
+41.206.12.41.mtngprs.net 1 1 4338 20110518094958
+41.206.12.68.mtngprs.net 2 2 4406 20110518105213
+41.220.69.17.mtngprs.net 3 16 28008 20110527143032
+41.206.12.78.mtngprs.net 2 2 8617 20110517124517
+41.220.69.33.mtngprs.net 1 6 219216 20110513205016
+41.206.12.47.mtngprs.net 1 1 4339 20110518100222
+41.206.11.29.vgccl.net 1 10 699890 20110516160829
+41.206.12.75.mtngprs.net 3 26 12385 20110530191015
+41.220.69.19.mtngprs.net 3 7 11043 20110528164934
+41.206.12.54.mtngprs.net 2 13 1841022 20110524150551
+rrba-ip-pcache-6-vif0.telkom-ipnet.co.za 1 3 372417 20110523202954
+41.206.12.33.mtngprs.net 1 1 4341 20110523114142
+41.206.12.61.mtngprs.net 2 2 8651 20110530191604
+41.206.12.59.mtngprs.net 2 4 31264 20110517120218
+41.206.12.71.mtngprs.net 1 1 1706 20110514123108
+113.92.99.153 2 2 3292 20110529060738
+38.99.82.228 1 1 7218 20110519012152
+41.220.69.44.mtngprs.net 3 13 2702642 20110517133524
+74.113.176.2 1 5 509528 20110527045100
+75.subnet125-160-70.speedy.telkom.net.id 1 8 718924 20110523014108
+41.206.12.56.mtngprs.net 1 1 4328 20110518103753
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 21
+20110509 1 3 10508 1
+20110511 1 1 1682 1
+20110513 5 9 15650 5
+20110514 14 31 453457 10
+20110515 1 1 1706 1
+20110516 47 193 15998764 21
+20110517 46 207 16485755 25
+20110518 47 84 3823191 26
+20110519 8 19 948657 6
+20110520 5 33 4703322 1
+20110521 2 12 1511948 1
+20110522 1 5 509559 1
+20110523 20 87 11820012 15
+20110524 12 106 12640385 11
+20110525 1 5 509559 1
+20110526 19 29 100975 3
+20110527 18 75 3289022 8
+20110528 10 26 1445476 7
+20110529 4 23 3748453 4
+20110530 9 88 1132095 6
+20110531 2 10 2342162 2
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 6
+1h+ 1
+5mn-15mn 7
+15mn-30mn 1
+0s-30s 127
+2mn-5mn 9
+30s-2mn 11
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 20
+/ 56 224123 45 40
+/email.php 30 129569 26 25
+/clients.html 19 65315 8 9
+/contactus.html 19 88868 6 10
+/flow_meters.html 17 60836 8 9
+/refinery.html 13 55197 8 11
+/sandblasting_painting.html 13 57949 8 7
+/home.html 13 79422 5 6
+/services.html 13 69485 6 6
+/storage_tanks.html 12 53271 6 5
+/mailform.php 11 1215 6 7
+/instrumentations.html 8 30837 4 3
+/oilinstallations.html 8 26473 4 3
+/gammaray.html 7 37885 3 2
+/ultrasonics.html 7 21650 3 4
+/truck_tankers.html 7 20690 2 2
+/cathodic_protection.html 6 20250 2 2
+/pipeline_pressuretest.html 5 26958 1 1
+/gasplants.html 5 25163 2 2
+/email2.php 4 1200 3 2
+END_SIDER
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS

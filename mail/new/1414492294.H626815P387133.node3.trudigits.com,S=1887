@@ -1,0 +1,44 @@
+Return-path: <guser5004@gmail.com>
+Envelope-to: mtoriola@techno-excel.com
+Delivery-date: Tue, 28 Oct 2014 11:31:34 +0100
+Received: from mail-ig0-f173.google.com ([209.85.213.173]:42829)
+	by node3.trudigits.com with esmtps (TLSv1:RC4-SHA:128)
+	(Exim 4.82)
+	(envelope-from <guser5004@gmail.com>)
+	id 1Xj43q-001chn-AG
+	for mtoriola@techno-excel.com; Tue, 28 Oct 2014 11:31:34 +0100
+Received: by mail-ig0-f173.google.com with SMTP id r10so5784037igi.12
+        for <mtoriola@techno-excel.com>; Tue, 28 Oct 2014 03:31:22 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:date:message-id:subject:from:to:content-type;
+        bh=hn4KykVd4R+UZxN77575nVzAjkqJ7dHxgJ3je8AqYWo=;
+        b=ozmpOUrpZ+GdzUD7u9teSf+d+EZUqjNkK839shkE0g/ZH1aibR3qn1+g/jVWhGsbL1
+         YTAEVxRMcWzMp2Uo3Xri49IuXFnUmSUXND2ElU5GDlR9UR4fTR1kAn0kvenWQXdHewtA
+         yr9IYt8sqrFCATA+8LrFPlVhmh5oWoJJLBeeBkAKMzIRfs2nFrT0qs41oTe2c9ETaUp3
+         7z/lAi468yfypNmUbXv/e0cKKrk8Fm9IAZ5pAki1HN53gv2La2MflkLvr0CEV3tFB/E3
+         kb1hIk1c36E1JK8BwJza88uVyLKUYVtKFUlIT4lGElLA/3OuQnzRdksa5+9nn0as/6fe
+         HvYg==
+MIME-Version: 1.0
+X-Received: by 10.107.11.129 with SMTP id 1mr2653152iol.18.1414492281855; Tue,
+ 28 Oct 2014 03:31:21 -0700 (PDT)
+Received: by 10.107.26.198 with HTTP; Tue, 28 Oct 2014 03:31:21 -0700 (PDT)
+Date: Tue, 28 Oct 2014 16:01:21 +0530
+Message-ID: <CAPscQhGgp3MJqLr94TY3F+F+jUW0J4QU-NUSPsFBLEUrLms9YA@mail.gmail.com>
+Subject: Hi This is User
+From: Russell Atkins <guser5004@gmail.com>
+To: undisclosed-recipients:;
+Content-Type: multipart/alternative; boundary=001a113de586ff6f9405067925b7
+Bcc: mtoriola@techno-excel.com
+
+--001a113de586ff6f9405067925b7
+Content-Type: text/plain; charset=UTF-8
+
+Hello
+
+--001a113de586ff6f9405067925b7
+Content-Type: text/html; charset=UTF-8
+
+<div dir="ltr">Hello</div>
+
+--001a113de586ff6f9405067925b7--

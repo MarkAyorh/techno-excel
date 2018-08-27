@@ -1,0 +1,2 @@
+
+[09-May-2012 21:28:57 UTC] PHP Warning:  mysql_select_db() [<a href='function.mysql-select-db'>function.mysql-select-db</a>]: A link to the server could not be established in /home/technoex/public_html/mysql_bankupdate.php on line 15

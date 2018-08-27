@@ -1,0 +1,62 @@
+Return-Path: <marktee@mail.com>
+Delivered-To: website@techno-excel.com
+Received: from rigby.tdwdns.com
+	by rigby.tdwdns.com (Dovecot) with LMTP id Pxd0MZdZ71f20AIAF2jIDg
+	for <website@techno-excel.com>; Sat, 01 Oct 2016 08:37:11 +0200
+Return-path: <marktee@mail.com>
+Envelope-to: website@techno-excel.com
+Delivery-date: Sat, 01 Oct 2016 08:37:11 +0200
+Received: from [::1] (port=40982 helo=techno-excel.com)
+	by rigby.tdwdns.com with esmtpsa (TLSv1:ECDHE-RSA-AES256-SHA:256)
+	(Exim 4.87)
+	(envelope-from <marktee@mail.com>)
+	id 1bqDv1-000m0b-HC
+	for website@techno-excel.com; Sat, 01 Oct 2016 08:37:09 +0200
+Message-ID: <b42ba56591c12be7f1d5991fcffb53c4@techno-excel.com>
+Date: Sat, 01 Oct 2016 01:37:05 -0500
+Subject: Testing Mail Forwarder
+From: A Toriola <marktee@mail.com>
+To: website@techno-excel.com
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="_=_swift_v4_1475303825_4483951c65cf9ca953a425a329789eeb_=_"
+
+
+--_=_swift_v4_1475303825_4483951c65cf9ca953a425a329789eeb_=_
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+Testing Mail Forwarder
+
+--_=_swift_v4_1475303825_4483951c65cf9ca953a425a329789eeb_=_
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org=
+/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns=3D"http://www.w3.org/1999/=
+xhtml">
+<head>
+    <meta http-equiv=3D"Content-Type" content=3D"text/ht=
+ml; charset=3DUTF-8" />
+    <title></title>
+    </head>
+<body>
+    =
+   =20
+    A Toriola Says: <br>
+    =20
+   Testing Mail Forwarder <br>
+=
+   =20
+   <h3 style=3D"color: #00C;">
+   This is an email from techno-exc=
+el's website.=20
+</h3>
+
+    </body>
+</html>
+
+
+--_=_swift_v4_1475303825_4483951c65cf9ca953a425a329789eeb_=_--
+

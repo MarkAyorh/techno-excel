@@ -1,0 +1,170 @@
+Return-Path: <techno-excel@hotmail.com>
+Delivered-To: akintundeadesina@techno-excel.com
+Received: from rigby.tdwdns.com
+	by rigby.tdwdns.com (Dovecot) with LMTP id ybyVDQoz+1fX1g8AF2jIDg
+	for <akintundeadesina@techno-excel.com>; Mon, 10 Oct 2016 08:19:54 +0200
+Return-path: <techno-excel@hotmail.com>
+Envelope-to: akintundeadesina@techno-excel.com
+Delivery-date: Mon, 10 Oct 2016 08:19:54 +0200
+Received: from bay004-omc3s19.hotmail.com ([65.54.190.157]:63511)
+	by rigby.tdwdns.com with esmtps (TLSv1.2:ECDHE-RSA-AES256-SHA384:256)
+	(Exim 4.87)
+	(envelope-from <techno-excel@hotmail.com>)
+	id 1btTwE-004M2T-0y
+	for akintundeadesina@techno-excel.com; Mon, 10 Oct 2016 08:19:52 +0200
+Received: from EUR02-AM5-obe.outbound.protection.outlook.com ([65.54.190.187]) by BAY004-OMC3S19.hotmail.com over TLS secured channel with Microsoft SMTPSVC(7.5.7601.23008);
+	 Sun, 9 Oct 2016 23:19:08 -0700
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=hotmail.com;
+ s=selector1; h=From:Date:Subject:Message-ID:Content-Type:MIME-Version;
+ bh=qw+00dHOJ86+QMxOn+xX2pZFOQvrP/bSk2sYw8EGkrI=;
+ b=HY8Ayyotr1ae+4j3VNPHjahmwLtPOsAK3DLGeRFp6L9CD2UsxN+l5HY15+YpHVvkW1yOH2XdpGt4tzbRgUxm9p/Bl4q+/ZqHEbTuHMcJrxm1GUm/mG8Vv6mXeK31daTuemY2O9SZGbisevNxgFJrz+h4dNnRfIMBZdvo0YW0DyapIRK9H9UBxZ/8nAbBxsJcjnwqqGCyzPiorgSLfvQmasHGQSRN/Tzfm1wnJWh12QeU3Hpd/h03zyd4u/1Ird+aNnrBXRZn6PaTcz/x5pXsS8GsgJzMI7ybvm2dqBM5ogKQ3RhOG9lx2rs8CuS7C287au/i/ROlJkPd1SWt0R1R7Q==
+Received: from AM5EUR02FT034.eop-EUR02.prod.protection.outlook.com
+ (10.152.8.55) by AM5EUR02HT025.eop-EUR02.prod.protection.outlook.com
+ (10.152.9.199) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384_P384) id 15.1.629.5; Mon, 10 Oct
+ 2016 06:19:06 +0000
+Received: from DB5PR08MB0294.eurprd08.prod.outlook.com (10.152.8.59) by
+ AM5EUR02FT034.mail.protection.outlook.com (10.152.8.118) with Microsoft SMTP
+ Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384_P384) id
+ 15.1.629.5 via Frontend Transport; Mon, 10 Oct 2016 06:19:06 +0000
+Received: from DB5PR08MB0294.eurprd08.prod.outlook.com ([10.161.240.27]) by
+ DB5PR08MB0294.eurprd08.prod.outlook.com ([10.161.240.27]) with mapi id
+ 15.01.0649.027; Mon, 10 Oct 2016 06:19:06 +0000
+From: Techno - Excel <techno-excel@hotmail.com>
+To: "akintundeadesina@techno-excel.com" <akintundeadesina@techno-excel.com>
+Subject: Fw: Company's Webmail Address
+Thread-Topic: Company's Webmail Address
+Thread-Index: AQHSH+djPzHWDihE50WvJmPfKt3qQKChPIv2
+Date: Mon, 10 Oct 2016 06:19:06 +0000
+Message-ID: <DB5PR08MB0294F7261971A762A7AB66738EDB0@DB5PR08MB0294.eurprd08.prod.outlook.com>
+References: <CAMUk21NqWLrKQAt-qc291bebHN9fDS8UE8vcP7e3S5BWhdUxig@mail.gmail.com>
+In-Reply-To: <CAMUk21NqWLrKQAt-qc291bebHN9fDS8UE8vcP7e3S5BWhdUxig@mail.gmail.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+authentication-results: techno-excel.com; dkim=none (message not signed)
+ header.d=none;techno-excel.com; dmarc=none action=none
+ header.from=hotmail.com;
+x-ms-exchange-messagesentrepresentingtype: 1
+x-tmn: [5PLVhi+EGiLgZdz+WchVnBGnX23LuZxh]
+x-eopattributedmessage: 0
+x-microsoft-exchange-diagnostics: 1;AM5EUR02HT025;6:2XfXg0Qxznu1mjgDLn1ZxrVb3slciSSUv4P42kKAFg9+70v87Ol8qDHQD/EDvqO47Aw1QcnAoSIfNn9Pyf9gkuT33yH5W76XGXVKZoambJ0CKEqQrnUNoIiqGocn7ZCXGmAwjIloS1FoQ/Ty8WZUEovrnn3FBJswApVdPX6fQIg3e3VTnzoCnpSwsf59OGBB5L3Lx7c2m+jKgdlZ7jMmq+X18YegkO0ZB5XopcKjR4PNz32OSXCXn1WY4RgIi/qThJ2NuSUevl+c5UMzJeJx5OHg5SGln44LOxtTSTPs8II=;5:sH1fRk03CrJ0TxR/Fl5axzs5LvMsIUnffZ/272SJR8+qvQ7OJiAnWL+wtdYCQT/LXK4gL26V/lcx6CvxUIhTAY4jcDsJx6Cw9SfzguBFOrts5L1OeGr3JjAoleNdDEh3EpH8+FsvfK5wFkzTIFt00w==;24:BF4qD6tlLklsV89e8bdpXEKsk07kAH5wLEbAeCpOr/l41LODI4/XElv9YfJ1V3VrzdzcfF+1SZL5r3aIweO8gWFsOIsP4ErOwd4mSlJPaOU=;7:lzQi1EyhZxnwffeY/9GDjEdMtuAeUZp0r8wNhzRV4Bmw8+OeZbNw1FAknq6plZV7cER2cppsAghCyMw9AC4N/gGccSLjfxC/OToNogf5+yNIXYlCCNk6+0RVVFGhrC8gzinks/IWERgQ2P+tSH2m2u7hihRuAPDVEac0rM1Y1pCs24QG09rIP5oQHT16D/9sBwBJWoyM+41qVVqKQqZVhGSLJWVmVZUXqTs8+SO2rLtrRmknghkwD0j+P2SfAQaQrRi9idNkJu8Aax9pEhfn9oAZ2BsWTsyqGpCKxvWr1ciM6wR70c4pvHogtSfMk6NV0DCLCh6hw98LWu2gLsrIWg==
+x-forefront-antispam-report: EFV:NLI;SFV:NSPM;SFS:(10019020)(98900003);DIR:OUT;SFP:1102;SCL:1;SRVR:AM5EUR02HT025;H:DB5PR08MB0294.eurprd08.prod.outlook.com;FPR:;SPF:None;LANG:en;
+x-ms-office365-filtering-correlation-id: 89e98a5f-7032-4dac-6787-08d3f0d556d2
+x-microsoft-antispam: UriScan:;BCL:0;PCL:0;RULEID:(1601124038)(1603103081)(1601125047);SRVR:AM5EUR02HT025;
+x-exchange-antispam-report-cfa-test: BCL:0;PCL:0;RULEID:(432015012)(82015046);SRVR:AM5EUR02HT025;BCL:0;PCL:0;RULEID:;SRVR:AM5EUR02HT025;
+x-forefront-prvs: 0091C8F1EB
+spamdiagnosticoutput: 1:99
+spamdiagnosticmetadata: NSPM
+Content-Type: multipart/alternative;
+	boundary="_000_DB5PR08MB0294F7261971A762A7AB66738EDB0DB5PR08MB0294eurp_"
+MIME-Version: 1.0
+X-OriginatorOrg: hotmail.com
+X-MS-Exchange-CrossTenant-originalarrivaltime: 10 Oct 2016 06:19:06.4291
+ (UTC)
+X-MS-Exchange-CrossTenant-fromentityheader: Internet
+X-MS-Exchange-CrossTenant-id: 84df9e7f-e9f6-40af-b435-aaaaaaaaaaaa
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: AM5EUR02HT025
+X-OriginalArrivalTime: 10 Oct 2016 06:19:08.0542 (UTC) FILETIME=[359789E0:01D222BE]
+
+--_000_DB5PR08MB0294F7261971A762A7AB66738EDB0DB5PR08MB0294eurp_
+Content-Type: text/plain; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+
+
+
+________________________________
+From: Ayo Toriola <ayotoriola@gmail.com>
+Sent: Thursday, October 6, 2016 4:36 PM
+To: Techno Excel
+Subject: Company's Webmail Address
+
+Pls don't change the password: It is the same as on hotmail. Delete this em=
+ail later.
+address: info@techno-excel.com<mailto:info@techno-excel.com>
+password: techno_2016$
+
+
+--
+
+"Whenever you're in doubt about any action, ask yourself: Is it true? Is it=
+ necessary? Is it kind? You can also ask, What would love do now?"
+
+-Sri Harold Klemp
+The Language of Soul
+
+--_000_DB5PR08MB0294F7261971A762A7AB66738EDB0DB5PR08MB0294eurp_
+Content-Type: text/html; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Diso-8859-=
+1">
+<style type=3D"text/css" style=3D"display:none;"><!-- P {margin-top:0;margi=
+n-bottom:0;} --></style>
+</head>
+<body dir=3D"ltr">
+<div id=3D"divtagdefaultwrapper" style=3D"font-size:12pt;color:#000000;font=
+-family:Calibri,Arial,Helvetica,sans-serif;">
+<p><br>
+</p>
+<br>
+<br>
+<div style=3D"color: rgb(0, 0, 0);">
+<hr tabindex=3D"-1" style=3D"display:inline-block; width:98%">
+<div id=3D"divRplyFwdMsg" dir=3D"ltr"><font face=3D"Calibri, sans-serif" co=
+lor=3D"#000000" style=3D"font-size:11pt"><b>From:</b> Ayo Toriola &lt;ayoto=
+riola@gmail.com&gt;<br>
+<b>Sent:</b> Thursday, October 6, 2016 4:36 PM<br>
+<b>To:</b> Techno Excel<br>
+<b>Subject:</b> Company's Webmail Address</font>
+<div>&nbsp;</div>
+</div>
+<div>
+<div dir=3D"ltr">
+<div><span class=3D"gmail-apple-style-span"><span style=3D"font-size:11pt; =
+font-family:&quot;times new roman&quot;,serif">Pls don't change the passwor=
+d: It is the same as on hotmail. Delete this email later.</span></span></di=
+v>
+<div><span class=3D"gmail-apple-style-span"><span style=3D"font-size:11pt; =
+font-family:&quot;times new roman&quot;,serif">address:
+<a href=3D"mailto:info@techno-excel.com">info@techno-excel.com</a></span></=
+span></div>
+<span class=3D"gmail-apple-style-span"><span style=3D"font-size:11pt; font-=
+family:&quot;times new roman&quot;,serif">password:&nbsp;</span></span><spa=
+n lang=3D"EN-GB" style=3D"font-size:11pt; font-family:&quot;times new roman=
+&quot;,serif">techno_2016$</span>
+<div><font face=3D"times new roman, serif"><span style=3D"font-size:14.6667=
+px"><br clear=3D"all">
+</span></font>
+<div><br>
+</div>
+-- <br>
+<div class=3D"gmail_signature">
+<div dir=3D"ltr">
+<p style=3D"font-family:verdana,arial,helvetica,sans-serif; line-height:19p=
+x; margin:20px 20px 0px; font-style:italic">
+<font color=3D"#38761d">&quot;<span style=3D"font-size:13px; line-height:19=
+.44px">Whenever you&#8217;re in doubt about any action, ask yourself: Is it=
+ true? Is it necessary? Is it kind? You can also ask, What would love do no=
+w?&quot;</span></font></p>
+<p style=3D"font-family:verdana,arial,helvetica,sans-serif; font-size:13px;=
+ font-style:normal; line-height:14px; background-color:rgb(255,255,255); ma=
+rgin:10px 40px 20px 20px; text-align:right">
+<font color=3D"#38761d">&#8212;Sri Harold Klemp<br>
+<em><u>The Language of Soul</u></em></font></p>
+<p></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</body>
+</html>
+
+--_000_DB5PR08MB0294F7261971A762A7AB66738EDB0DB5PR08MB0294eurp_--

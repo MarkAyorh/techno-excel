@@ -1,0 +1,56 @@
+Return-Path: <toriola2000@yahoo.com>
+Delivered-To: website@techno-excel.com
+Received: from rigby.tdwdns.com
+	by rigby.tdwdns.com (Dovecot) with LMTP id nFl/CpXU7lfOGQAAF2jIDg
+	for <website@techno-excel.com>; Fri, 30 Sep 2016 23:09:41 +0200
+Return-path: <toriola2000@yahoo.com>
+Envelope-to: website@techno-excel.com
+Delivery-date: Fri, 30 Sep 2016 23:09:41 +0200
+Received: from [::1] (port=56115 helo=techno-excel.com)
+	by rigby.tdwdns.com with esmtpsa (TLSv1:ECDHE-RSA-AES256-SHA:256)
+	(Exim 4.87)
+	(envelope-from <toriola2000@yahoo.com>)
+	id 1bq53q-0001iK-LF
+	for website@techno-excel.com; Fri, 30 Sep 2016 23:09:39 +0200
+Message-ID: <d2b5b57cae3a345b6c852a9b78ef2d60@techno-excel.com>
+Date: Fri, 30 Sep 2016 16:09:38 -0500
+Subject: Testing Mail Forwarder2
+From: A Toriola <toriola2000@yahoo.com>
+To: website@techno-excel.com
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="_=_swift_v4_1475269778_229635b4124ed58b53e9fe19ce1c5908_=_"
+
+
+--_=_swift_v4_1475269778_229635b4124ed58b53e9fe19ce1c5908_=_
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+Testing Mail Forwarder2
+
+--_=_swift_v4_1475269778_229635b4124ed58b53e9fe19ce1c5908_=_
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org=
+/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns=3D"http://www.w3.org/1999/=
+xhtml">
+<head>
+    <meta http-equiv=3D"Content-Type" content=3D"text/ht=
+ml; charset=3DUTF-8" />
+    <title></title>
+    </head>
+<body>
+    =
+    <h3>
+   This is an email from techno-excel's website.=20
+</h3>
+
+ =
+   </body>
+</html>
+
+
+--_=_swift_v4_1475269778_229635b4124ed58b53e9fe19ce1c5908_=_--
+

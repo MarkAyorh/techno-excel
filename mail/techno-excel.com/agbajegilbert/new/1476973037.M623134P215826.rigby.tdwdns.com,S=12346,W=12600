@@ -1,0 +1,254 @@
+Return-Path: <techno-excel@hotmail.com>
+Delivered-To: agbajegilbert@techno-excel.com
+Received: from rigby.tdwdns.com
+	by rigby.tdwdns.com (Dovecot) with LMTP id CvRhFe3RCFgSSwMAF2jIDg
+	for <agbajegilbert@techno-excel.com>; Thu, 20 Oct 2016 16:17:17 +0200
+Return-path: <techno-excel@hotmail.com>
+Envelope-to: agbajegilbert@techno-excel.com
+Delivery-date: Thu, 20 Oct 2016 16:17:17 +0200
+Received: from bay004-omc3s23.hotmail.com ([65.54.190.161]:50202)
+	by rigby.tdwdns.com with esmtps (TLSv1.2:ECDHE-RSA-AES256-SHA384:256)
+	(Exim 4.87)
+	(envelope-from <techno-excel@hotmail.com>)
+	id 1bxE9j-000u4G-5B
+	for agbajegilbert@techno-excel.com; Thu, 20 Oct 2016 16:17:16 +0200
+Received: from EUR03-AM5-obe.outbound.protection.outlook.com ([65.54.190.189]) by BAY004-OMC3S23.hotmail.com over TLS secured channel with Microsoft SMTPSVC(7.5.7601.23008);
+	 Thu, 20 Oct 2016 07:16:31 -0700
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=hotmail.com;
+ s=selector1; h=From:Date:Subject:Message-ID:Content-Type:MIME-Version;
+ bh=zC50rdjWo63iqZwlPC+t4XX1DKpka/yxpPuMlYa6FsY=;
+ b=A1oC8Gg9ZnOGT82oHu5PrEcGm2A5goCtvD6OHCnxpZtmWi80kYBihWTS3rTWgNSw44D0n7mOrunzaJR22BzIBZOq0biZjYPjs7x0hP+SKRgv5uOOAVjoLrAiqbMHc/Hlc1fPFB2vE2IxSd7mpCZiNEGn2cbjETpHM3LVHmz+7oHbAPD3XQd5Vk/RdNCpueVq3iiY6vbPq7IBcGmR2bMgeOYRzTgYR2JMhopoqylAkokfAazwZi+A+p3eUmO/RyVrHQKcZc/tHuKugEH/GjvWLNUimw+GsUvyCtKpqKg6ahlMTWBgXpGK5WgFQR65DnTUFHZk1zIfqWuNu5bkE5KRLQ==
+Received: from AM5EUR03FT064.eop-EUR03.prod.protection.outlook.com
+ (10.152.16.56) by AM5EUR03HT117.eop-EUR03.prod.protection.outlook.com
+ (10.152.17.251) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384_P384) id 15.1.669.7; Thu, 20 Oct
+ 2016 14:16:16 +0000
+Received: from DB5PR08MB0294.eurprd08.prod.outlook.com (10.152.16.55) by
+ AM5EUR03FT064.mail.protection.outlook.com (10.152.17.53) with Microsoft SMTP
+ Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384_P384) id
+ 15.1.669.7 via Frontend Transport; Thu, 20 Oct 2016 14:16:15 +0000
+Received: from DB5PR08MB0294.eurprd08.prod.outlook.com ([10.161.240.27]) by
+ DB5PR08MB0294.eurprd08.prod.outlook.com ([10.161.240.27]) with mapi id
+ 15.01.0669.018; Thu, 20 Oct 2016 14:16:11 +0000
+From: Techno - Excel <techno-excel@hotmail.com>
+To: "agbajegilbert@techno-excel.com" <agbajegilbert@techno-excel.com>
+Subject: Fw: Quotation
+Thread-Topic: Quotation
+Thread-Index: AdIq1NadWE6wIhH1Slyqll25r4vyBAAB6Uu2
+Date: Thu, 20 Oct 2016 14:16:10 +0000
+Message-ID: <DB5PR08MB02949469ACA5E163C476C5CF8ED50@DB5PR08MB0294.eurprd08.prod.outlook.com>
+References: <!&!AAAAAAAAAAAYAAAAAAAAAKOo05NVKFxBldMr8chha67CgAAAEAAAACBt6O/fRZtMnSAmS5dOw1sBAAAAAA==@ipi.com.ng>
+In-Reply-To: <!&!AAAAAAAAAAAYAAAAAAAAAKOo05NVKFxBldMr8chha67CgAAAEAAAACBt6O/fRZtMnSAmS5dOw1sBAAAAAA==@ipi.com.ng>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+authentication-results: techno-excel.com; dkim=none (message not signed)
+ header.d=none;techno-excel.com; dmarc=none action=none
+ header.from=hotmail.com;
+x-ms-exchange-messagesentrepresentingtype: 1
+x-tmn: [n0QgODoU1uinGHNiSB7+jASTywqHzPJ6]
+x-eopattributedmessage: 0
+x-microsoft-exchange-diagnostics:
+	1;AM5EUR03HT117;6:gx6DIIcq18n8z04XdPgpcMQRzdZA0T1wSdivqNN7yrFdTkSVjf7m2jaBF7vSFL7HG2q63brJlmy5+CQl12oGLtoiHFuRcbJMW9Bs9RkU58iGU6v6K5oZrl85L0EdXacQ7qhxers02tWGAGLSE2+cf/ulKg4GJClDuO2MRgjrkwTVnu8QhELTIt2QYqe8ayfS7NygiXWzB4yLzeAIqi5fsQso06J1Lbe7DDllVFbOSK+nb9bMOsubVIfVWIUneJItrCMPJBH2pUvGF9s/xzyrCxaT9RDdpXM6n9m3yqcTMfvzxy2TWNrbYKRJFliGGnql;5:gODW/eiMsMqdi+lNzayG6Rn0Qrr1qemi5hdALOvbPt+lnotQ6ZXFhZZXGBnu+ye/8jB2BHtZ+Otmzg2z/9ZtzoOpZRCwKP6CnV1+1c9CFrsDmyPoxo27qGEnvbh1Ph5zkOkVIVlZep0CNkyutbs0gg==;24:/oI0SPVIbqAzzKuLadJFg7fPMUl0cy2RL2rZOV8xan32QVt4fETB6EyWa5zaQj1Pf3ivtobNnmDD4o06CftI8er97y2WHFFD5kmFSXkoXHM=;7:6RDveeFaengkOKkBxNhhuBVTkOsf7GIbKvU1h45hYS4EzVP4kSZU2dfZAHlLqhH2MtoLGK850Pco1niCoWCU7ZCvvEJWaKzgS/rK73Fhn7DP1p4lURZIgdCaymTLw0S6s5aM1WHqX/jAwvvMSdxfXUEUPN44yW715T1qbDIRDKAzPRKBBuz/+DreM9tgEXGW8m5abc3jCvzIhLHlk9HYdIWTDTkD+kJ+VSAxim5cy5nOsGF8EBin2Bh5O/vI1WM8TmtS0wHdUd6ofcAkcyChVP04O4xqTsZSaOnDVPb6bdIhmmkSLz3MrWpkKKHeyMKwjfqzNTZbz9HHy08Il9qB1I3KfqJ97olSWy/3xKpV0FI=
+x-forefront-antispam-report: EFV:NLI;SFV:NSPM;SFS:(10019020)(98900003);DIR:OUT;SFP:1102;SCL:1;SRVR:AM5EUR03HT117;H:DB5PR08MB0294.eurprd08.prod.outlook.com;FPR:;SPF:None;LANG:en;
+x-ms-office365-filtering-correlation-id: 6920a743-5344-4b59-8793-08d3f8f3a489
+x-microsoft-antispam: UriScan:;BCL:0;PCL:0;RULEID:(1601124038)(1603103081)(1601125047);SRVR:AM5EUR03HT117;
+x-exchange-antispam-report-cfa-test: BCL:0;PCL:0;RULEID:(432015012)(82015046);SRVR:AM5EUR03HT117;BCL:0;PCL:0;RULEID:;SRVR:AM5EUR03HT117;
+x-forefront-prvs: 01018CB5B3
+spamdiagnosticoutput: 1:99
+spamdiagnosticmetadata: NSPM
+Content-Type: multipart/alternative;
+	boundary="_000_DB5PR08MB02949469ACA5E163C476C5CF8ED50DB5PR08MB0294eurp_"
+MIME-Version: 1.0
+X-OriginatorOrg: hotmail.com
+X-MS-Exchange-CrossTenant-originalarrivaltime: 20 Oct 2016 14:16:10.8167
+ (UTC)
+X-MS-Exchange-CrossTenant-fromentityheader: Internet
+X-MS-Exchange-CrossTenant-id: 84df9e7f-e9f6-40af-b435-aaaaaaaaaaaa
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: AM5EUR03HT117
+X-OriginalArrivalTime: 20 Oct 2016 14:16:31.0743 (UTC) FILETIME=[8E66A8F0:01D22ADC]
+
+--_000_DB5PR08MB02949469ACA5E163C476C5CF8ED50DB5PR08MB0294eurp_
+Content-Type: text/plain; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+
+
+
+________________________________
+From: Babatunde Fatunla <tunde@ipi.com.ng>
+Sent: Thursday, October 20, 2016 3:11 PM
+To: agbajegilbert@yahoo.com
+Cc: techno_excell@yahoo.co.uk; 'Baba Tunde IPI'
+Subject: Quotation
+
+
+Dear Sir,
+
+
+
+Please we need your quotation for the following :
+
+
+
+1.       Ultrasonic Thickness (UT) Inspection on tank walls and bottom plat=
+es and its associated piping using T-Scope III Graphical Scanning Ultrasoni=
+c Thickness gauge or equivalent to be carried out by an  ASNT Level 2 Techn=
+ician. The dimension of tank - dia. 25.696m, Hei. 7.620. Location : Edo Sta=
+te No of Tanks - 2
+
+2.       Visual Inspection by a certified welding Inspector (CSWIP) includi=
+ng the internals, floor plate and all functional interconnecting piping
+
+3.       Radiographic testing RT - 81 joints of approximately 250m length. =
+To provide detailed analysis and interpretation of the obtained RT photogra=
+phic films
+
+4.       RT inspection of all repair welded joints including film interpret=
+ation and report packaging
+
+5.       Hydrostatic  leak testing.
+
+
+
+We will be glad if we can receive your quote tomorrow 21/10/16
+
+
+
+
+
+Best Regards
+
+Babatunde Fatunla
+IRON PRODUCTS IND. LTD. (IPI)
+8, Lisabi Street,
+Off Liverpool Road,
+Apapa, Lagos
+Mobile: +234(0)8033902940, 08074141402
+Email: tunde@ipi.com.ng<mailto:tunde@ipi.com.ng> babatundefatunla@yahoo.com=
+<mailto:babatundefatunla@yahoo.com>
+Website: www.ipi.com.ng<http://www.ipi.com.ng/>
+
+
+
+--_000_DB5PR08MB02949469ACA5E163C476C5CF8ED50DB5PR08MB0294eurp_
+Content-Type: text/html; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Diso-8859-=
+1">
+<style type=3D"text/css" style=3D"display:none;"><!-- P {margin-top:0;margi=
+n-bottom:0;} --></style>
+</head>
+<body dir=3D"ltr">
+<div id=3D"divtagdefaultwrapper" style=3D"font-size:12pt;color:#000000;font=
+-family:Calibri,Arial,Helvetica,sans-serif;">
+<p><br>
+</p>
+<br>
+<br>
+<div style=3D"color: rgb(0, 0, 0);">
+<hr tabindex=3D"-1" style=3D"display:inline-block; width:98%">
+<div id=3D"divRplyFwdMsg" dir=3D"ltr"><font face=3D"Calibri, sans-serif" co=
+lor=3D"#000000" style=3D"font-size:11pt"><b>From:</b> Babatunde Fatunla &lt=
+;tunde@ipi.com.ng&gt;<br>
+<b>Sent:</b> Thursday, October 20, 2016 3:11 PM<br>
+<b>To:</b> agbajegilbert@yahoo.com<br>
+<b>Cc:</b> techno_excell@yahoo.co.uk; 'Baba Tunde IPI'<br>
+<b>Subject:</b> Quotation</font>
+<div>&nbsp;</div>
+</div>
+<div>
+<div>
+<p style=3D"margin: 0in 0in 0.0001pt; font-size: 11pt; font-family: Calibri=
+, sans-serif;">
+Dear Sir,</p>
+<p style=3D"margin: 0in 0in 0.0001pt; font-size: 11pt; font-family: Calibri=
+, sans-serif;">
+&nbsp;</p>
+<p style=3D"margin: 0in 0in 0.0001pt; font-size: 11pt; font-family: Calibri=
+, sans-serif;">
+Please we need your quotation for the following :</p>
+<p style=3D"margin: 0in 0in 0.0001pt; font-size: 11pt; font-family: Calibri=
+, sans-serif;">
+&nbsp;</p>
+<p style=3D"text-indent: -0.25in; margin: 0in 0in 0.0001pt 0.5in; font-size=
+: 11pt; font-family: Calibri, sans-serif;">
+<span style=3D"">1.<span style=3D"font:7.0pt &quot;Times New Roman&quot;">&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span>Ultrasonic Thickness (UT)=
+ Inspection on tank walls and bottom plates and its associated piping using=
+ T-Scope III Graphical Scanning Ultrasonic Thickness gauge or equivalent to
+ be carried out by an &nbsp;ASNT Level 2 Technician. The dimension of tank =
+&#8211; dia. 25.696m, Hei. 7.620. Location : Edo State No of Tanks &#8211; =
+2</p>
+<p style=3D"text-indent: -0.25in; margin: 0in 0in 0.0001pt 0.5in; font-size=
+: 11pt; font-family: Calibri, sans-serif;">
+<span style=3D"">2.<span style=3D"font:7.0pt &quot;Times New Roman&quot;">&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span>Visual Inspection by a ce=
+rtified welding Inspector (CSWIP) including the internals, floor plate and =
+all functional interconnecting piping</p>
+<p style=3D"text-indent: -0.25in; margin: 0in 0in 0.0001pt 0.5in; font-size=
+: 11pt; font-family: Calibri, sans-serif;">
+<span style=3D"">3.<span style=3D"font:7.0pt &quot;Times New Roman&quot;">&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span>Radiographic testing RT &=
+#8211; 81 joints of approximately 250m length. To provide detailed analysis=
+ and interpretation of the obtained RT photographic films</p>
+<p style=3D"text-indent: -0.25in; margin: 0in 0in 0.0001pt 0.5in; font-size=
+: 11pt; font-family: Calibri, sans-serif;">
+<span style=3D"">4.<span style=3D"font:7.0pt &quot;Times New Roman&quot;">&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span>RT inspection of all repa=
+ir welded joints including film interpretation and report packaging</p>
+<p style=3D"text-indent: -0.25in; margin: 0in 0in 0.0001pt 0.5in; font-size=
+: 11pt; font-family: Calibri, sans-serif;">
+<span style=3D"">5.<span style=3D"font:7.0pt &quot;Times New Roman&quot;">&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span>Hydrostatic&nbsp; leak te=
+sting.</p>
+<p style=3D"margin: 0in 0in 0.0001pt; font-size: 11pt; font-family: Calibri=
+, sans-serif;">
+&nbsp;</p>
+<p style=3D"margin: 0in 0in 0.0001pt; font-size: 11pt; font-family: Calibri=
+, sans-serif;">
+We will be glad if we can receive your quote tomorrow 21/10/16</p>
+<p style=3D"margin: 0in 0in 0.0001pt; font-size: 11pt; font-family: Calibri=
+, sans-serif;">
+&nbsp;</p>
+<p style=3D"margin: 0in 0in 0.0001pt; font-size: 11pt; font-family: Calibri=
+, sans-serif;">
+&nbsp;</p>
+<p style=3D"background: white; margin: 0in 0in 0.0001pt; font-size: 11pt; f=
+ont-family: Calibri, sans-serif;">
+<b><i><span style=3D"font-size:10.0pt; font-family:&quot;Helvetica&quot;,sa=
+ns-serif; color:black">Best Regards</span></i></b><span style=3D"font-size:=
+10.0pt; font-family:&quot;Helvetica&quot;,sans-serif; color:black"><br>
+<br>
+<b>Babatunde Fatunla<br>
+IRON PRODUCTS IND. LTD. (IPI)&nbsp;<br>
+<i>8, Lisabi Street,<br>
+Off Liverpool Road,<br>
+Apapa, Lagos<br>
+Mobile: &#43;234(0)8033902940, 08074141402<br>
+Email:&nbsp;</i></b><a href=3D"mailto:tunde@ipi.com.ng" target=3D"_blank" s=
+tyle=3D"color: rgb(5, 99, 193); text-decoration: underline;"><b><i><span st=
+yle=3D"color:blue">tunde@ipi.com.ng</span></i></b></a><b><i>&nbsp;</i></b><=
+a href=3D"mailto:babatundefatunla@yahoo.com" target=3D"_blank" style=3D"col=
+or: rgb(5, 99, 193); text-decoration: underline;"><b><i><span style=3D"colo=
+r:blue">babatundefatunla@yahoo.com</span></i></b></a><b><i><br>
+Website:&nbsp;</i></b><a href=3D"http://www.ipi.com.ng/" target=3D"_blank" =
+style=3D"color: rgb(5, 99, 193); text-decoration: underline;"><b><i><span s=
+tyle=3D"color:blue">www.ipi.com.ng</span></i></b></a></span><span style=3D"=
+font-size:12.0pt; font-family:&quot;Helvetica&quot;,sans-serif; color:black=
+"></span></p>
+<p style=3D"margin: 0in 0in 0.0001pt; font-size: 11pt; font-family: Calibri=
+, sans-serif;">
+&nbsp;</p>
+</div>
+</div>
+</div>
+</div>
+</body>
+</html>
+
+--_000_DB5PR08MB02949469ACA5E163C476C5CF8ED50DB5PR08MB0294eurp_--
